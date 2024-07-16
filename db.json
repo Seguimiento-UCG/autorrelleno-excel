@@ -1,4 +1,7 @@
-{ "products": [],
+{ "products": [ "id": 1,
+      "name": "Celular",
+      "description": "bueno",
+"price": 99],
   
   "remitente": [
     {
