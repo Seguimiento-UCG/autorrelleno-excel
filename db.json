@@ -51,133 +51,133 @@
     {
       "id": 9,
       "NombreRemitente": "PROFRA. MARIBEL JAIMES VEGA",
-      "PuestoRemitente": "ADSCRITA A LA ESC. SEC. GRAL. N°. 2 \"\"\"\"JESÚS MASTACHE ROMÁN\"\"\"\" ACAPULCO",
+      "PuestoRemitente": "ADSCRITA A LA ESC. SEC. GRAL. N°. 2 \"JESÚS MASTACHE ROMÁN\" ACAPULCO",
       "AreaRemitente": "DEMANDA CIUDADANA"
     },
     {
       "id": 10,
       "NombreRemitente": "PROFRA. MA. DEL CARMEN FLORES CATALÁN",
-      "PuestoRemitente": "ADSCRITA A LA ESC. TELESECUNDARIA \"\"\"\"LUIS PASTEUR\"\"\"\", SAN FRANCISCO OZTUTLA, MPIO. DE COPALILLO",
+      "PuestoRemitente": "ADSCRITA A LA ESC. TELESECUNDARIA \"LUIS PASTEUR\", SAN FRANCISCO OZTUTLA, MPIO. DE COPALILLO",
       "AreaRemitente": "DEMANDA CIUDADANA"
     },
     {
       "id": 11,
       "NombreRemitente": "PROFRA. REBECA CHINO ABURTO",
-      "PuestoRemitente": "ADSCRITA A LA ESCUELA PREESCOLAR BILINGÜE \"\"\"\"JUSTO SIERRA\"\"\"\", ZOTOLTITLÁN, MPIO. DE MARTIR DE CUILAPAN",
+      "PuestoRemitente": "ADSCRITA A LA ESCUELA PREESCOLAR BILINGÜE \"JUSTO SIERRA\", ZOTOLTITLÁN, MPIO. DE MARTIR DE CUILAPAN",
       "AreaRemitente": "DEMANDA CIUDADANA"
     },
     {
       "id": 12,
       "NombreRemitente": "PROFRA. AMÉRICA SUEMY ADAME JUSTO",
-      "PuestoRemitente": "ADSCRITA A LA ESCUELA PRIMARIA \"\"\"\"GENERAL VICENTE GUERRERO\"\"\"\", CIUDAD",
+      "PuestoRemitente": "ADSCRITA A LA ESCUELA PRIMARIA \"GENERAL VICENTE GUERRERO\", CIUDAD",
       "AreaRemitente": "DEMANDA CIUDADANA"
     },
     {
       "id": 13,
       "NombreRemitente": "PROFRA. DEYCI CISNERO SILVA",
-      "PuestoRemitente": "ADSCRITA A LA ESCUELA PRIMARIA \"\"\"\"IGNACIO MANUEL ALTAMIRANO\"\"\"\",  EL CERRITO, MPIO. DE TÉCPAN DE GALEANA",
+      "PuestoRemitente": "ADSCRITA A LA ESCUELA PRIMARIA \"IGNACIO MANUEL ALTAMIRANO\",  EL CERRITO, MPIO. DE TÉCPAN DE GALEANA",
       "AreaRemitente": "DEMANDA CIUDADANA"
     },
     {
       "id": 14,
       "NombreRemitente": "L.E.F. MARÍA MAGDALENA SALINAS NÚÑEZ",
-      "PuestoRemitente": "ADSCRITA A LA ESCUELA PRIMARIA \"\"\"\"IGNACIO ZARAGOZA, EL CAYACO, MPIO. DE ACAPULCO ",
+      "PuestoRemitente": "ADSCRITA A LA ESCUELA PRIMARIA \"IGNACIO ZARAGOZA, EL CAYACO, MPIO. DE ACAPULCO ",
       "AreaRemitente": "DEMANDA CIUDADANA"
     },
     {
       "id": 15,
       "NombreRemitente": "L.E.F. ANGÉLICA SEGURA TEODORO",
-      "PuestoRemitente": "ADSCRITA A LA ESCUELA PRIMARIA \"\"\"\"VICENTE GUERRERO\"\"\"\", TIXTLA",
+      "PuestoRemitente": "ADSCRITA A LA ESCUELA PRIMARIA \"VICENTE GUERRERO\", TIXTLA",
       "AreaRemitente": "DEMANDA CIUDADANA"
     },
     {
       "id": 16,
       "NombreRemitente": "PROFRA. GUADALUPE CATALÁN GUZMÁN",
-      "PuestoRemitente": "ADSCRITA A LA ESCUELA PRIMARIA BILINGÜE \"\"\"\"ADOLFO LÓPEZ MATEOS\"\"\"\", PUEBLO HIDALGO, MPIO. SAN LUIS ACATLÁN",
+      "PuestoRemitente": "ADSCRITA A LA ESCUELA PRIMARIA BILINGÜE \"ADOLFO LÓPEZ MATEOS\", PUEBLO HIDALGO, MPIO. SAN LUIS ACATLÁN",
       "AreaRemitente": "DEMANDA CIUDADANA"
     },
     {
       "id": 17,
       "NombreRemitente": "LIC. LUZ YEDITH LUNA BEDOLLA",
-      "PuestoRemitente": "ADSCRITA A LA ESCUELA PRIMARIA BILINGÜE \"\"\"\"LÁZARO CÁRDENAS\"\"\"\", AMEYALTEPEC, MPIO. DE EDUARDO NERI",
+      "PuestoRemitente": "ADSCRITA A LA ESCUELA PRIMARIA BILINGÜE \"LÁZARO CÁRDENAS\", AMEYALTEPEC, MPIO. DE EDUARDO NERI",
       "AreaRemitente": "DEMANDA CIUDADANA"
     },
     {
       "id": 18,
       "NombreRemitente": "LIC. TONANTZIN NANDI PÓLITO",
-      "PuestoRemitente": "ADSCRITA A LA ESCUELA PRIMARIA ESTATAL \"\"\"\"ANTONIO ABARCA MEMIJE\"\"\"\" SAN JERONIMITO, MPIO. DE PETATLÁN ",
+      "PuestoRemitente": "ADSCRITA A LA ESCUELA PRIMARIA ESTATAL \"ANTONIO ABARCA MEMIJE\" SAN JERONIMITO, MPIO. DE PETATLÁN ",
       "AreaRemitente": "DEMANDA CIUDADANA"
     },
     {
       "id": 19,
       "NombreRemitente": "C. TONANTZIN NANDI POLITO",
-      "PuestoRemitente": "ADSCRITA A LA ESCUELA PRIMARIA ESTATAL \"\"\"\"ANTONIO ABARCA MEMIJE\"\"\"\", SAN JERÓNIMO MPIO. PETATLÁN",
+      "PuestoRemitente": "ADSCRITA A LA ESCUELA PRIMARIA ESTATAL \"ANTONIO ABARCA MEMIJE\", SAN JERÓNIMO MPIO. PETATLÁN",
       "AreaRemitente": "DEMANDA CIUDADANA"
     },
     {
       "id": 20,
       "NombreRemitente": "LIC. GEIDY ROSAS SANTOS",
-      "PuestoRemitente": "ADSCRITA A LA ESCUELA PRIMARIA INDÍGENA \"\"\"\"IGNACIO MANUEL ALTAMIRANO\"\"\"\", RANCHO ESCONDIDO, MPIO. DE AHUACUOTZINGO",
+      "PuestoRemitente": "ADSCRITA A LA ESCUELA PRIMARIA INDÍGENA \"IGNACIO MANUEL ALTAMIRANO\", RANCHO ESCONDIDO, MPIO. DE AHUACUOTZINGO",
       "AreaRemitente": "DEMANDA CIUDADANA"
     },
     {
       "id": 21,
       "NombreRemitente": "MTRA. EDNA VARINKA EULOGIO CUADROS",
-      "PuestoRemitente": "ADSCRITA A LA ESCUELA SECUNDARIA \"\"\"\"BALTAZAR R. LEYVA MANCILLA\"\"\"\", TIXTLA, GUERRERO",
+      "PuestoRemitente": "ADSCRITA A LA ESCUELA SECUNDARIA \"BALTAZAR R. LEYVA MANCILLA\", TIXTLA, GUERRERO",
       "AreaRemitente": "DEMANDA CIUDADANA"
     },
     {
       "id": 22,
       "NombreRemitente": "MTRA. CONCEPCIÓN HERNÁNDEZ ALCÁNTARA ",
-      "PuestoRemitente": "ADSCRITA A LA ESCUELA SECUNDARIA GENERAL \"\"\"\"DONACIANO GUTIÉRREZ GARDUÑO\"\"\"\", TIXTLA DE GUERRERO",
+      "PuestoRemitente": "ADSCRITA A LA ESCUELA SECUNDARIA GENERAL \"DONACIANO GUTIÉRREZ GARDUÑO\", TIXTLA DE GUERRERO",
       "AreaRemitente": "DEMANDA CIUDADANA"
     },
     {
       "id": 23,
       "NombreRemitente": "PROFRA. MARTHA ORTIZ MÉNDEZ",
-      "PuestoRemitente": "ADSCRITA A LA ESCUELA SECUNDARIA GENERAL \"\"\"\"JOSEFA ORTIZ DE DOMÍNGUEZ\"\"\"\", HUAJINTEPEC, MPIO. DE OMETEPEC",
+      "PuestoRemitente": "ADSCRITA A LA ESCUELA SECUNDARIA GENERAL \"JOSEFA ORTIZ DE DOMÍNGUEZ\", HUAJINTEPEC, MPIO. DE OMETEPEC",
       "AreaRemitente": "DEMANDA CIUDADANA"
     },
     {
       "id": 24,
       "NombreRemitente": "PROFRA. ITZEL SÁNCHEZ URIÓSTEGUI",
-      "PuestoRemitente": "ADSCRITA A LA ESCUELA SECUNDARIA GENERAL \"\"\"\"MELCHOR OCAMPO\"\"\"\", SAN LUIS SAN PEDRO, MPIO. TÉCPAN DE GALEANA",
+      "PuestoRemitente": "ADSCRITA A LA ESCUELA SECUNDARIA GENERAL \"MELCHOR OCAMPO\", SAN LUIS SAN PEDRO, MPIO. TÉCPAN DE GALEANA",
       "AreaRemitente": "DEMANDA CIUDADANA"
     },
     {
       "id": 25,
       "NombreRemitente": "PROFRA. YURIT ROJAS DE JESÚS",
-      "PuestoRemitente": "ADSCRITA A LA ESCUELA SECUNDARIA TÉCNICA \"\"\"\"BENITO JUÁREZ GARCÍA\"\"\"\", SAN LUIS ACATLÁN",
+      "PuestoRemitente": "ADSCRITA A LA ESCUELA SECUNDARIA TÉCNICA \"BENITO JUÁREZ GARCÍA\", SAN LUIS ACATLÁN",
       "AreaRemitente": "DEMANDA CIUDADANA"
     },
     {
       "id": 26,
       "NombreRemitente": "MTRA. SESILIA LEYVA LOAEZA",
-      "PuestoRemitente": "ADSCRITA A LA ESCUELA SECUNDARIA TÉCNICA 126 \"\"\"\"JAIME TORRES BODET\"\"\"\", AYUTLA DE LOS LIBRES",
+      "PuestoRemitente": "ADSCRITA A LA ESCUELA SECUNDARIA TÉCNICA 126 \"JAIME TORRES BODET\", AYUTLA DE LOS LIBRES",
       "AreaRemitente": "DEMANDA CIUDADANA"
     },
     {
       "id": 27,
       "NombreRemitente": "C. KARINA VIVEROS BAHENA",
-      "PuestoRemitente": "ADSCRITA A LA ESCUELA SECUNDARIA TÉCNICA N°19 \"\"\"\"JESÚS ARIZMENDI ROGEL\"\"\"\", PILCAYA",
+      "PuestoRemitente": "ADSCRITA A LA ESCUELA SECUNDARIA TÉCNICA N°19 \"JESÚS ARIZMENDI ROGEL\", PILCAYA",
       "AreaRemitente": "DEMANDA CIUDADANA"
     },
     {
       "id": 28,
       "NombreRemitente": "MTRA. ELIZABETH ESPIRITU ORTEGA",
-      "PuestoRemitente": "ADSCRITA A LA ESCUELA SECUNDARIA TÉCNICA NO. 150 \"\"\"\"RAFAEL RAMÍREZ CASTAÑEDA\"\"\"\", CIUDAD",
+      "PuestoRemitente": "ADSCRITA A LA ESCUELA SECUNDARIA TÉCNICA NO. 150 \"RAFAEL RAMÍREZ CASTAÑEDA\", CIUDAD",
       "AreaRemitente": "DEMANDA CIUDADANA"
     },
     {
       "id": 29,
       "NombreRemitente": "C. LEOBARDA PATRICIO HUERTAS",
-      "PuestoRemitente": "ADSCRITA A LA ESCUELA SECUNDARIA TÉCNICA NÚMERO 103 \"\"\"\"VICENTE  GUERRERO\"\"\"\", ACAPULCO",
+      "PuestoRemitente": "ADSCRITA A LA ESCUELA SECUNDARIA TÉCNICA NÚMERO 103 \"VICENTE  GUERRERO\", ACAPULCO",
       "AreaRemitente": "DEMANDA CIUDADANA"
     },
     {
       "id": 30,
       "NombreRemitente": "PROFRA. MAXIMINA AGUSTINIANO HERNÁNDEZ",
-      "PuestoRemitente": "ADSCRITA A LA ESCUELA SECUNDARIA TÉCNICA NÚMERO 92 \"\"\"\"IGNACIO MANUEL ALTAMIRANO\"\"\"\", ACAPULCO",
+      "PuestoRemitente": "ADSCRITA A LA ESCUELA SECUNDARIA TÉCNICA NÚMERO 92 \"IGNACIO MANUEL ALTAMIRANO\", ACAPULCO",
       "AreaRemitente": "DEMANDA CIUDADANA"
     },
     {
@@ -189,7 +189,7 @@
     {
       "id": 32,
       "NombreRemitente": "PROFRA. OLIVIA UREÑA OLANDA",
-      "PuestoRemitente": "ADSCRITA A LA ESCUELA TÉCNICA \"\"\"\"EMILIANO ZAPATA\"\"\"\", ACAPULCO",
+      "PuestoRemitente": "ADSCRITA A LA ESCUELA TÉCNICA \"EMILIANO ZAPATA\", ACAPULCO",
       "AreaRemitente": "DEMANDA CIUDADANA"
     },
     {
@@ -201,13 +201,13 @@
     {
       "id": 34,
       "NombreRemitente": "PROFRA. MA. YURIDIA RIVERA ALVAREZ",
-      "PuestoRemitente": "ADSCRITA A LA ESCUELA TELESECUNDARIA \"\"\"\"24 DE FEBRERO\"\"\"\", COLONIA HELIODORO CASTILLO (CHICAHUALES), MPIO. DE CHILPANCINGO",
+      "PuestoRemitente": "ADSCRITA A LA ESCUELA TELESECUNDARIA \"24 DE FEBRERO\", COLONIA HELIODORO CASTILLO (CHICAHUALES), MPIO. DE CHILPANCINGO",
       "AreaRemitente": "DEMANDA CIUDADANA"
     },
     {
       "id": 35,
       "NombreRemitente": "PROFRA. GABRIELA GUADALUPE ABARCA GONZÁLEZ",
-      "PuestoRemitente": "ADSCRITA A LA ESCUELA TELESECUNDARIA \"\"\"\"BENITO JUÁREZ GARCÍA\"\"\"\", LOS SAUCES, MPIO. DE TECOANAPA",
+      "PuestoRemitente": "ADSCRITA A LA ESCUELA TELESECUNDARIA \"BENITO JUÁREZ GARCÍA\", LOS SAUCES, MPIO. DE TECOANAPA",
       "AreaRemitente": "DEMANDA CIUDADANA"
     },
     {
@@ -249,7 +249,7 @@
     {
       "id": 42,
       "NombreRemitente": "C. CRISPINA DE LA CRUZ BARAJAS",
-      "PuestoRemitente": "ADSCRITA AL C.E.P.I. \"\"\"\"BENITO JUÁREZ\"\"\"\",  ATLIACA, MPIO. DE TIXTLA DE GUERRERO",
+      "PuestoRemitente": "ADSCRITA AL C.E.P.I. \"BENITO JUÁREZ\",  ATLIACA, MPIO. DE TIXTLA DE GUERRERO",
       "AreaRemitente": "DEMANDA CIUDADANA"
     },
     {
@@ -261,7 +261,7 @@
     {
       "id": 44,
       "NombreRemitente": "PROFRA. ADRIANA MICAELA OBE GARIBO",
-      "PuestoRemitente": "ADSCRITA AL CENTRO DE ATENCIÓN INFANTIL C.A.I. NÚM. 4 \"\"\"\"OCTAVIO PAZ\"\"\"\", TIXTLA DE GUERRERO",
+      "PuestoRemitente": "ADSCRITA AL CENTRO DE ATENCIÓN INFANTIL C.A.I. NÚM. 4 \"OCTAVIO PAZ\", TIXTLA DE GUERRERO",
       "AreaRemitente": "DEMANDA CIUDADANA"
     },
     {
@@ -285,37 +285,37 @@
     {
       "id": 48,
       "NombreRemitente": "LIC. ARACELI DE LA ROSA PADILLA",
-      "PuestoRemitente": "ADSCRITA AL JADÍN DE NIÑOS \"\"\"\"ALEJANDRO DE HUMBOLDT\"\"\"\", JULIANTLA, MPIO. DE TAXCO DE ALARCÓN",
+      "PuestoRemitente": "ADSCRITA AL JADÍN DE NIÑOS \"ALEJANDRO DE HUMBOLDT\", JULIANTLA, MPIO. DE TAXCO DE ALARCÓN",
       "AreaRemitente": "DEMANDA CIUDADANA"
     },
     {
       "id": 49,
       "NombreRemitente": "LIC. MILDRE DÍAZ VILLANUEVA",
-      "PuestoRemitente": "ADSCRITA AL JARDÍN DE NIÑOS \"\"\"\"AMADO RODRÍGUEZ\"\"\"\", CHILAPA DE ÁLVAREZ",
+      "PuestoRemitente": "ADSCRITA AL JARDÍN DE NIÑOS \"AMADO RODRÍGUEZ\", CHILAPA DE ÁLVAREZ",
       "AreaRemitente": "DEMANDA CIUDADANA"
     },
     {
       "id": 50,
       "NombreRemitente": "LIC. ADRIANA ANTÚNEZ ROMÁN",
-      "PuestoRemitente": "ADSCRITA AL JARDÍN DE NIÑOS \"\"\"\"FRANCISCO JAVIER CLAVIJERO\"\"\"\", XILOCINTLA, MPIO. DE HUITZUCO DE LOS FIGUEROA",
+      "PuestoRemitente": "ADSCRITA AL JARDÍN DE NIÑOS \"FRANCISCO JAVIER CLAVIJERO\", XILOCINTLA, MPIO. DE HUITZUCO DE LOS FIGUEROA",
       "AreaRemitente": "DEMANDA CIUDADANA"
     },
     {
       "id": 51,
       "NombreRemitente": "PROFR. OFELIA BARCENAS SANTANA",
-      "PuestoRemitente": "ADSCRITA AL JARDÍN DE NIÑOS \"\"\"\"MANUEL M. PONCE\"\"\"\", CUETZALA DEL PROGRESO.",
+      "PuestoRemitente": "ADSCRITA AL JARDÍN DE NIÑOS \"MANUEL M. PONCE\", CUETZALA DEL PROGRESO.",
       "AreaRemitente": "DEMANDA CIUDADANA"
     },
     {
       "id": 52,
       "NombreRemitente": "PROFRA. MAXÍMINA AGUSTINIANO HERNÁNDEZ",
-      "PuestoRemitente": "ADSCRITA EN LA ESC. SECUNDARIA TÉCNICA NÚM. 92 \"\"\"\"IGNACIO MANUEL ALTAMIRANO\"\"\"\", ACAPULCO",
+      "PuestoRemitente": "ADSCRITA EN LA ESC. SECUNDARIA TÉCNICA NÚM. 92 \"IGNACIO MANUEL ALTAMIRANO\", ACAPULCO",
       "AreaRemitente": "DEMANDA CIUDADANA"
     },
     {
       "id": 53,
       "NombreRemitente": "C. ARACELI LUENGAS HERRERA",
-      "PuestoRemitente": "ADSCRITA EN LA ESCUELA SECUNDARIA GENERAL \"\"\"\"CUAUHTÉMOC\"\"\"\", OMETEPEC",
+      "PuestoRemitente": "ADSCRITA EN LA ESCUELA SECUNDARIA GENERAL \"CUAUHTÉMOC\", OMETEPEC",
       "AreaRemitente": "DEMANDA CIUDADANA"
     },
     {
@@ -327,7 +327,7 @@
     {
       "id": 55,
       "NombreRemitente": "C. RUBÉN AUREOLES NÁJERA",
-      "PuestoRemitente": "ADSCRITO A LA ESC. PRIM. \"\"\"\"NICOLÁS BRAVO\"\"\"\", CHAMACUA DE MICHELENA, MPIO. DE COYUCA DE CATALÁN",
+      "PuestoRemitente": "ADSCRITO A LA ESC. PRIM. \"NICOLÁS BRAVO\", CHAMACUA DE MICHELENA, MPIO. DE COYUCA DE CATALÁN",
       "AreaRemitente": "DEMANDA CIUDADANA"
     },
     {
@@ -339,7 +339,7 @@
     {
       "id": 57,
       "NombreRemitente": "PROFR. SATURNINO GARCÍA CORDERO",
-      "PuestoRemitente": "ADSCRITO A LA ESCUELA BILINGÜE \"\"\"\"VICENTE GUERRERO\"\"\"\", MOYOTEPEC, MPIO. DE MALINALTEPEC",
+      "PuestoRemitente": "ADSCRITO A LA ESCUELA BILINGÜE \"VICENTE GUERRERO\", MOYOTEPEC, MPIO. DE MALINALTEPEC",
       "AreaRemitente": "DEMANDA CIUDADANA"
     },
     {
@@ -351,73 +351,73 @@
     {
       "id": 59,
       "NombreRemitente": "C. CHRISTIAN ALEXIS OCAÑA BÁRCENAS",
-      "PuestoRemitente": "ADSCRITO A LA ESCUELA PRIMARIA \"\"\"\"BALTAZAR CASTORENA\"\"\"\",  JALEACA DE CATALÁN, MPIO. DE CHILPANCINGO. ",
+      "PuestoRemitente": "ADSCRITO A LA ESCUELA PRIMARIA \"BALTAZAR CASTORENA\",  JALEACA DE CATALÁN, MPIO. DE CHILPANCINGO. ",
       "AreaRemitente": "DEMANDA CIUDADANA"
     },
     {
       "id": 60,
       "NombreRemitente": "MTRO. PAULO CEBRERO PINO ",
-      "PuestoRemitente": "ADSCRITO A LA ESCUELA PRIMARIA \"\"\"\"LEONA VICARIO\"\"\"\", LA ESTRELLA, MPIO. DE TECOANAPA",
+      "PuestoRemitente": "ADSCRITO A LA ESCUELA PRIMARIA \"LEONA VICARIO\", LA ESTRELLA, MPIO. DE TECOANAPA",
       "AreaRemitente": "DEMANDA CIUDADANA"
     },
     {
       "id": 61,
       "NombreRemitente": "PROFR. DE INGLÉS, LUIS ÁNGEL DE JESÚS CASIANO RAMÍREZ Y FIRMANTE",
-      "PuestoRemitente": "ADSCRITO A LA ESCUELA PRIMARIA \"\"\"\"NICOLÁS BRAVO\"\"\"\", TM. CIUDAD",
+      "PuestoRemitente": "ADSCRITO A LA ESCUELA PRIMARIA \"NICOLÁS BRAVO\", TM. CIUDAD",
       "AreaRemitente": "DEMANDA CIUDADANA"
     },
     {
       "id": 62,
       "NombreRemitente": "PROFR. RUBÉN RÍOS DÍAZ",
-      "PuestoRemitente": "ADSCRITO A LA ESCUELA SECUNDARIA GENERAL \"\"\"\" OTILIO MONTAÑO\"\"\"\", COPALA",
+      "PuestoRemitente": "ADSCRITO A LA ESCUELA SECUNDARIA GENERAL \" OTILIO MONTAÑO\", COPALA",
       "AreaRemitente": "DEMANDA CIUDADANA"
     },
     {
       "id": 63,
       "NombreRemitente": "PROFR. MARIO JESÚS JIMÉNEZ MANRIQUEZ ",
-      "PuestoRemitente": "ADSCRITO A LA ESCUELA SECUNDARIA GENERAL \"\"\"\"MELCHOR OCAMPO\"\"\"\", SAN LUIS SAN PEDRO, MPIO. TÉCPAN DE GALEANA",
+      "PuestoRemitente": "ADSCRITO A LA ESCUELA SECUNDARIA GENERAL \"MELCHOR OCAMPO\", SAN LUIS SAN PEDRO, MPIO. TÉCPAN DE GALEANA",
       "AreaRemitente": "DEMANDA CIUDADANA"
     },
     {
       "id": 64,
       "NombreRemitente": "PROFR. BENIGNO MEZA CHONA",
-      "PuestoRemitente": "ADSCRITO A LA ESCUELA SECUNDARIA GENERAL \"\"\"\"OTILIO MONTAÑO\"\"\"\", COPALA",
+      "PuestoRemitente": "ADSCRITO A LA ESCUELA SECUNDARIA GENERAL \"OTILIO MONTAÑO\", COPALA",
       "AreaRemitente": "DEMANDA CIUDADANA"
     },
     {
       "id": 65,
       "NombreRemitente": "MTRO. JESÚS GARCÍA RAMÍREZ",
-      "PuestoRemitente": "ADSCRITO A LA ESCUELA SECUNDARIA TÉCNICA \"\"\"\"JOSÉ VASCONCELOS CALDERÓN\"\"\"\", SAN JUAN HUEXOAPA, MPIO. DE METLATONOC",
+      "PuestoRemitente": "ADSCRITO A LA ESCUELA SECUNDARIA TÉCNICA \"JOSÉ VASCONCELOS CALDERÓN\", SAN JUAN HUEXOAPA, MPIO. DE METLATONOC",
       "AreaRemitente": "DEMANDA CIUDADANA"
     },
     {
       "id": 66,
       "NombreRemitente": "PROFR. DAVID ZUÑIGA GALLARDO",
-      "PuestoRemitente": "ADSCRITO A LA ESCUELA SECUNDARIA TÉCNICA 103 \"\"\"\"VICENTE GUERRERO\"\"\"\", UBICADA EN LA SABANA, MPIO. DE ACAPULCO ",
+      "PuestoRemitente": "ADSCRITO A LA ESCUELA SECUNDARIA TÉCNICA 103 \"VICENTE GUERRERO\", UBICADA EN LA SABANA, MPIO. DE ACAPULCO ",
       "AreaRemitente": "DEMANDA CIUDADANA"
     },
     {
       "id": 67,
       "NombreRemitente": "PROFR. GUILLERMO ANZURES APONTE",
-      "PuestoRemitente": "ADSCRITO A LA ESCUELA SECUNDARIA TÉCNICA INDUSTRIAL NO. 299 \"\"\"\"FELIPE SÁNCHEZ TÉLLEZ\"\"\"\", ZUMPANGO DEL RÍO",
+      "PuestoRemitente": "ADSCRITO A LA ESCUELA SECUNDARIA TÉCNICA INDUSTRIAL NO. 299 \"FELIPE SÁNCHEZ TÉLLEZ\", ZUMPANGO DEL RÍO",
       "AreaRemitente": "DEMANDA CIUDADANA"
     },
     {
       "id": 68,
       "NombreRemitente": "PROFR. SANTIAGO ARANDA BENITO",
-      "PuestoRemitente": "ADSCRITO A LA ESCUELA SECUNDARIA TÉCNICA N°. 265 \"\"\"\"SENTIMIENTOS DE LA NACIÓN\"\"\"\", IGUALA",
+      "PuestoRemitente": "ADSCRITO A LA ESCUELA SECUNDARIA TÉCNICA N°. 265 \"SENTIMIENTOS DE LA NACIÓN\", IGUALA",
       "AreaRemitente": "DEMANDA CIUDADANA"
     },
     {
       "id": 69,
       "NombreRemitente": "PROFR. BRAYAN YOSHIMAR FARÍAS BENÍTEZ",
-      "PuestoRemitente": "ADSCRITO A LA ESCUELA SECUNDARIA TÉCNICA NÚMERO 145 \"\"\"\"JUAN ENRIQUE PESTALOZZI\"\"\"\", SAN JUAN DEL REPARO, MPIO. DE JUAN R. ESCUDERO",
+      "PuestoRemitente": "ADSCRITO A LA ESCUELA SECUNDARIA TÉCNICA NÚMERO 145 \"JUAN ENRIQUE PESTALOZZI\", SAN JUAN DEL REPARO, MPIO. DE JUAN R. ESCUDERO",
       "AreaRemitente": "DEMANDA CIUDADANA"
     },
     {
       "id": 70,
       "NombreRemitente": "PROFR. DAVID GARCÍA MARTÍNEZ Y FIRMANTES",
-      "PuestoRemitente": "ADSCRITO A LA ESCUELA TELESECUNDARIA \"\"\"\"LEONA VICARIO\"\"\"\", ZUMPANGO DEL RIO, MPIO. DE EDUARDO NERI",
+      "PuestoRemitente": "ADSCRITO A LA ESCUELA TELESECUNDARIA \"LEONA VICARIO\", ZUMPANGO DEL RIO, MPIO. DE EDUARDO NERI",
       "AreaRemitente": "DEMANDA CIUDADANA"
     },
     {
@@ -441,13 +441,13 @@
     {
       "id": 74,
       "NombreRemitente": "PROFR. PIOQUINTO GREGORIO CAMPOS",
-      "PuestoRemitente": "ADSCRITO ESC. PRIM. FED. \"\"\"\"VICENTE GUERRERO\"\"\"\", OLINALA. GRO.",
+      "PuestoRemitente": "ADSCRITO ESC. PRIM. FED. \"VICENTE GUERRERO\", OLINALA. GRO.",
       "AreaRemitente": "SECRETARÍA DE EDUCACIÓN GUERRERO"
     },
     {
       "id": 75,
       "NombreRemitente": "PROFRA. ABRIL SÁNCHEZ TIXTECO Y FIRMANTE",
-      "PuestoRemitente": "ADSCRITOS A LA ESC. PRIM. BILINGÜE \"\"\"\"TONATIUH\"\"\"\", SANTA CATARINA LAS JOYAS, MPIO. DE AHUACUOTZINGO",
+      "PuestoRemitente": "ADSCRITOS A LA ESC. PRIM. BILINGÜE \"TONATIUH\", SANTA CATARINA LAS JOYAS, MPIO. DE AHUACUOTZINGO",
       "AreaRemitente": "DEMANDA CIUDADANA"
     },
     {
@@ -459,13 +459,13 @@
     {
       "id": 77,
       "NombreRemitente": "PROFR. JAIME ANTAÑO FLORES Y FIRMANTES",
-      "PuestoRemitente": "ADSCRITOS A LA ESCUELA SECUNDARIA GENERAL \"\"\"\"JOSÉ MARÍA MORELOS Y PAVÓN\"\"\"\", MOCHITLÁN",
+      "PuestoRemitente": "ADSCRITOS A LA ESCUELA SECUNDARIA GENERAL \"JOSÉ MARÍA MORELOS Y PAVÓN\", MOCHITLÁN",
       "AreaRemitente": "DEMANDA CIUDADANA"
     },
     {
       "id": 78,
       "NombreRemitente": "PROFR. VLADIMIR TOMATZIN PORTILLO Y FIRMANTES",
-      "PuestoRemitente": "ADSCRITOS A LA ESCUELA SECUNDARIA TÉCNICA NÚM. 299 \"\"\"\"FELIPE SÁNCHEZ TÉLLEZ\"\"\"\", ZUMPANGO DEL RÍO",
+      "PuestoRemitente": "ADSCRITOS A LA ESCUELA SECUNDARIA TÉCNICA NÚM. 299 \"FELIPE SÁNCHEZ TÉLLEZ\", ZUMPANGO DEL RÍO",
       "AreaRemitente": "DEMANDA CIUDADANA"
     },
     {
@@ -501,7 +501,7 @@
     {
       "id": 84,
       "NombreRemitente": "PROFR. DAVID ZUÑIGA GALLARDO Y FIRMANTE",
-      "PuestoRemitente": "ADSCRITOS DE LA ESCUELA SECUNDARIA TÉCNICA NÚM. 103, \"\"\"\"VICENTE GUERRERO\"\"\"\", ACAPULCO",
+      "PuestoRemitente": "ADSCRITOS DE LA ESCUELA SECUNDARIA TÉCNICA NÚM. 103, \"VICENTE GUERRERO\", ACAPULCO",
       "AreaRemitente": "DEMANDA CIUDADANA"
     },
     {
@@ -591,7 +591,7 @@
     {
       "id": 99,
       "NombreRemitente": "C. RICKI MARTÍN CISNEROS BARRERA Y FIRMANTES",
-      "PuestoRemitente": "ALUMNOS DE LA UNIVERSIDAD PEDAGÓGICA NACIONAL, UNIDAD 12 \"\"\"\"D\"\"\"\", TLAPA DE COMONFORT",
+      "PuestoRemitente": "ALUMNOS DE LA UNIVERSIDAD PEDAGÓGICA NACIONAL, UNIDAD 12 \"D\", TLAPA DE COMONFORT",
       "AreaRemitente": "DEMANDA CIUDADANA"
     },
     {
@@ -633,13 +633,13 @@
     {
       "id": 106,
       "NombreRemitente": "C. JOSÉ L. LUQUIN JIMÉNEZ Y FIRMANTES",
-      "PuestoRemitente": "BASE TRABAJADORA DE LA ESC. SEC. TÉC. NUM. 112 \"\"\"\"EMPERADOR CUAUHTÉMOC\"\"\"\", HUITZILTEPEC, MPIO. EDUARDO NERI",
+      "PuestoRemitente": "BASE TRABAJADORA DE LA ESC. SEC. TÉC. NUM. 112 \"EMPERADOR CUAUHTÉMOC\", HUITZILTEPEC, MPIO. EDUARDO NERI",
       "AreaRemitente": "ORGANIZACIONES"
     },
     {
       "id": 107,
       "NombreRemitente": "C. NORMA ALICIA VALENCIA Y FIRMANTES",
-      "PuestoRemitente": "BASE TRABAJADORA DE LA ESC. SEC. TÉC. NUM. 112 \"\"\"\"EMPERADOR CUAUHTÉMOC\"\"\"\", HUITZILTEPEC, MPIO. EDUARDO NERI",
+      "PuestoRemitente": "BASE TRABAJADORA DE LA ESC. SEC. TÉC. NUM. 112 \"EMPERADOR CUAUHTÉMOC\", HUITZILTEPEC, MPIO. EDUARDO NERI",
       "AreaRemitente": "ORGANIZACIONES"
     },
     {
@@ -687,7 +687,7 @@
     {
       "id": 115,
       "NombreRemitente": "C. TANIA VICTORINO GÓMEZ Y FIRMANTES",
-      "PuestoRemitente": "COMITÉ DE PADRES DE FAMILIA DE LA ESCUELA PRIMARIA \"\"\"\"AZTECA\"\"\"\", ATLIXTAC, MPIO. DE LEONARDO BRAVO",
+      "PuestoRemitente": "COMITÉ DE PADRES DE FAMILIA DE LA ESCUELA PRIMARIA \"AZTECA\", ATLIXTAC, MPIO. DE LEONARDO BRAVO",
       "AreaRemitente": "DEMANDA CIUDADANA"
     },
     {
@@ -711,7 +711,7 @@
     {
       "id": 119,
       "NombreRemitente": "C. LUIS MANUEL MEAVE EMBRIZ Y FIRMANTE ",
-      "PuestoRemitente": "COORDINACIÓN DE ORGANIZACIÓN III \"\"\"\"FRETEDES MONTAÑA ALTA\"\"\"\", TLAPA DE COMONFORT",
+      "PuestoRemitente": "COORDINACIÓN DE ORGANIZACIÓN III \"FRETEDES MONTAÑA ALTA\", TLAPA DE COMONFORT",
       "AreaRemitente": "ORGANIZACIONES"
     },
     {
@@ -1281,145 +1281,145 @@
     {
       "id": 214,
       "NombreRemitente": "C. RAMIRO AGUILAR ÁVILA",
-      "PuestoRemitente": "DIR DE LA ESC. PRIM. INTER. BIL. \"\"\"\"LÁZARO CARDENAS\"\"\"\", AMEYALTEPEC, MPIO DE EDUARDO NERI",
+      "PuestoRemitente": "DIR DE LA ESC. PRIM. INTER. BIL. \"LÁZARO CARDENAS\", AMEYALTEPEC, MPIO DE EDUARDO NERI",
       "AreaRemitente": "SECRETARÍA DE EDUCACIÓN GUERRERO"
     },
     {
       "id": 215,
       "NombreRemitente": "PROFRA. MARTZA SÁNCHEZ ÁLAMO Y FIRMANTES",
-      "PuestoRemitente": "DIR. DE LA ESC. EDUC. PREES. IND. \"\"\"\"TLÁLOC\"\"\"\", SAN JUAN TETELCINGO, MPIO. DE TEPECOACUILCO DE TRUJANO",
+      "PuestoRemitente": "DIR. DE LA ESC. EDUC. PREES. IND. \"TLÁLOC\", SAN JUAN TETELCINGO, MPIO. DE TEPECOACUILCO DE TRUJANO",
       "AreaRemitente": "SECRETARÍA DE EDUCACIÓN GUERRERO"
     },
     {
       "id": 216,
       "NombreRemitente": "M.C. LETICIA VALERIO REYES Y FIRMANTES ",
-      "PuestoRemitente": "DIR. DE LA ESC. PREP. POPULAR \"\"\"\"TELPOCHKAJLI\"\"\"\", SAN MIGUEL TECUICIPAN, MPIO. DE TEPECOACUILCO DE TRUJANO ",
+      "PuestoRemitente": "DIR. DE LA ESC. PREP. POPULAR \"TELPOCHKAJLI\", SAN MIGUEL TECUICIPAN, MPIO. DE TEPECOACUILCO DE TRUJANO ",
       "AreaRemitente": "SECRETARÍA DE EDUCACIÓN GUERRERO"
     },
     {
       "id": 217,
       "NombreRemitente": "C. JORGE GONZÁLEZ NICOLAS Y FIRMANTES",
-      "PuestoRemitente": "DIR. DE LA ESC. PRIM. \"\"\"\"BENITO JUÁREZ\"\"\"\", SAN JUAN TOTOLCINTLA MPIO DE MÁRTIR DE CUILAPAN",
+      "PuestoRemitente": "DIR. DE LA ESC. PRIM. \"BENITO JUÁREZ\", SAN JUAN TOTOLCINTLA MPIO DE MÁRTIR DE CUILAPAN",
       "AreaRemitente": "SECRETARÍA DE EDUCACIÓN GUERRERO"
     },
     {
       "id": 218,
       "NombreRemitente": "PROFR. FRANCISCO CALIXTO MORAN",
-      "PuestoRemitente": "DIR. DE LA ESC. PRIM. \"\"\"\"EMILIANO ZAPATA\"\"\"\", SAN MARCOS OACATZINGO, MPIO. DE MÁRTIR DE CUILAPAN ",
+      "PuestoRemitente": "DIR. DE LA ESC. PRIM. \"EMILIANO ZAPATA\", SAN MARCOS OACATZINGO, MPIO. DE MÁRTIR DE CUILAPAN ",
       "AreaRemitente": "SECRETARÍA DE EDUCACIÓN GUERRERO"
     },
     {
       "id": 219,
       "NombreRemitente": "PROFRA. VIOLETA DOMÍNGUEZ GONZÁLEZ",
-      "PuestoRemitente": "DIR. DE LA ESC. PRIM. \"\"\"\"PROGRESO Y CIVILIZACIÓN\"\"\"\", SAN AGUSTÍN OAPAN, MPIO. DE TEPECOACUILCO DE TRUJANO",
+      "PuestoRemitente": "DIR. DE LA ESC. PRIM. \"PROGRESO Y CIVILIZACIÓN\", SAN AGUSTÍN OAPAN, MPIO. DE TEPECOACUILCO DE TRUJANO",
       "AreaRemitente": "SECRETARÍA DE EDUCACIÓN GUERRERO"
     },
     {
       "id": 220,
       "NombreRemitente": "C. ARMANDO NAVA ATILANO Y FIRMANTE",
-      "PuestoRemitente": "DIR. DE LA ESC. PRIM. \"\"\"\"RICARDO FLORES MAGÓN\"\"\"\", TLAMAMACA, MPIO DE MÁRTIR DE CUILAPAN",
+      "PuestoRemitente": "DIR. DE LA ESC. PRIM. \"RICARDO FLORES MAGÓN\", TLAMAMACA, MPIO DE MÁRTIR DE CUILAPAN",
       "AreaRemitente": "SECRETARÍA DE EDUCACIÓN GUERRERO"
     },
     {
       "id": 221,
       "NombreRemitente": "PROFR. HÉCTOR DOROTEO GONZÁLEZ Y FIRMANTES",
-      "PuestoRemitente": "DIR. DE LA ESC. PRIM. \"\"\"\"TIERRA Y LIBERTAD\"\"\"\", SAN FRANCISCO OZOMATLÁN, MPIO. DE HUTZUCO DE LOS FIGUEROA",
+      "PuestoRemitente": "DIR. DE LA ESC. PRIM. \"TIERRA Y LIBERTAD\", SAN FRANCISCO OZOMATLÁN, MPIO. DE HUTZUCO DE LOS FIGUEROA",
       "AreaRemitente": "SECRETARÍA DE EDUCACIÓN GUERRERO"
     },
     {
       "id": 222,
       "NombreRemitente": "PROFR. NARCISO DE LA CRUZ BUSTILLOS Y FIRMANTE",
-      "PuestoRemitente": "DIR. DE LA ESC. PRIM. BIL. \"\"\"\"BENITA GALEANA\"\"\"\", SAN MIGUEL TECUICIAPAN",
+      "PuestoRemitente": "DIR. DE LA ESC. PRIM. BIL. \"BENITA GALEANA\", SAN MIGUEL TECUICIAPAN",
       "AreaRemitente": "SECRETARÍA DE EDUCACIÓN GUERRERO"
     },
     {
       "id": 223,
       "NombreRemitente": "PROFR. ELMER BENÍTEZ LEYVA Y FIRMANTES",
-      "PuestoRemitente": "DIR. DE LA ESC. PRIM. BIL. \"\"\"\"CUAUHTÉMOC\"\"\"\", SAN AGUSTÍN OAPAN, MPIO. DE TEPECOACUILCO DE TRUJANO ",
+      "PuestoRemitente": "DIR. DE LA ESC. PRIM. BIL. \"CUAUHTÉMOC\", SAN AGUSTÍN OAPAN, MPIO. DE TEPECOACUILCO DE TRUJANO ",
       "AreaRemitente": "SECRETARÍA DE EDUCACIÓN GUERRERO"
     },
     {
       "id": 224,
       "NombreRemitente": "PROFR. SANTIAGO TEPEC SUAREZ Y FIRMANTE",
-      "PuestoRemitente": "DIR. DE LA ESC. PRIM. BIL. \"\"\"\"MELCHOR OCAMPO\"\"\"\", SAN AGUSTÍN OSTOTIPAN, MPIO DE MÁRTIR DE CUILAPAN",
+      "PuestoRemitente": "DIR. DE LA ESC. PRIM. BIL. \"MELCHOR OCAMPO\", SAN AGUSTÍN OSTOTIPAN, MPIO DE MÁRTIR DE CUILAPAN",
       "AreaRemitente": "SECRETARÍA DE EDUCACIÓN GUERRERO"
     },
     {
       "id": 225,
       "NombreRemitente": "PROFR. RUFINO HERNÁNDEZ MANRIQUE Y FIRMANTES",
-      "PuestoRemitente": "DIR. DE LA ESC. PRIM. FED. \"\"\"\"JOSÉ AGUSTÍN RAMÍREZ\"\"\"\", AMATILLO, MPIO. DE ACAPULCO.",
+      "PuestoRemitente": "DIR. DE LA ESC. PRIM. FED. \"JOSÉ AGUSTÍN RAMÍREZ\", AMATILLO, MPIO. DE ACAPULCO.",
       "AreaRemitente": "SECRETARÍA DE EDUCACIÓN GUERRERO"
     },
     {
       "id": 226,
       "NombreRemitente": "C. MARCO ANTONIO MALDONADO RODRÍGUEZ",
-      "PuestoRemitente": "DIR. DE LA ESC. PRIM. FORMAL \"\"\"\"MI PATRIA ES PRIMERO\"\"\"\", LA LUZ DE JUÁREZ MPIO. DE TLALIXTAQUILLA",
+      "PuestoRemitente": "DIR. DE LA ESC. PRIM. FORMAL \"MI PATRIA ES PRIMERO\", LA LUZ DE JUÁREZ MPIO. DE TLALIXTAQUILLA",
       "AreaRemitente": "SECRETARÍA DE EDUCACIÓN GUERRERO"
     },
     {
       "id": 227,
       "NombreRemitente": "MTRO. OMAR GODÍNEZ QUIÑONES ",
-      "PuestoRemitente": "DIR. DE LA ESC. PRIM. INT. BIL. \"\"\"\"GRAL VICENTE GUERRERO\"\"\"\", TULIMAN MPIO DE HUITZUCO DE LOS FIGUEROA",
+      "PuestoRemitente": "DIR. DE LA ESC. PRIM. INT. BIL. \"GRAL VICENTE GUERRERO\", TULIMAN MPIO DE HUITZUCO DE LOS FIGUEROA",
       "AreaRemitente": "SECRETARÍA DE EDUCACIÓN GUERRERO"
     },
     {
       "id": 228,
       "NombreRemitente": "C. RAMIRO AGUILAR ÁVILA Y FIRMANTES",
-      "PuestoRemitente": "DIR. DE LA ESC. PRIM. INTER. BIL. \"\"\"\"LÁZARO CARDENAS\"\"\"\", AMEYALTEPEC, MPIO. DE EDUARDO NERI",
+      "PuestoRemitente": "DIR. DE LA ESC. PRIM. INTER. BIL. \"LÁZARO CARDENAS\", AMEYALTEPEC, MPIO. DE EDUARDO NERI",
       "AreaRemitente": "SECRETARÍA DE EDUCACIÓN GUERRERO"
     },
     {
       "id": 229,
       "NombreRemitente": "PROFR. JAVIER SOLÍS REFUGIO Y FIRMANTES",
-      "PuestoRemitente": "DIR. DE LA ESC. PRIM. INTER. BIL. \"\"\"\"REY Y SEÑOR CUAUHTÉMOC\"\"\"\",SAN JUAN TETELCINGO. MPIO. DE TEPECOACUILCO DE TRUJANO",
+      "PuestoRemitente": "DIR. DE LA ESC. PRIM. INTER. BIL. \"REY Y SEÑOR CUAUHTÉMOC\",SAN JUAN TETELCINGO. MPIO. DE TEPECOACUILCO DE TRUJANO",
       "AreaRemitente": "SECRETARÍA DE EDUCACIÓN GUERRERO"
     },
     {
       "id": 230,
       "NombreRemitente": "C. PETRONILA SOLÍS SALVADOR Y FIRMANTES",
-      "PuestoRemitente": "DIR. DE LA ESC. PRIM. INTER. BIL. \"\"\"\"VICENTE GUERRERO\"\"\"\", AHUEHUEPAN, MPIO. DE TEPECOACUILCO",
+      "PuestoRemitente": "DIR. DE LA ESC. PRIM. INTER. BIL. \"VICENTE GUERRERO\", AHUEHUEPAN, MPIO. DE TEPECOACUILCO",
       "AreaRemitente": "SECRETARÍA DE EDUCACIÓN GUERRERO"
     },
     {
       "id": 231,
       "NombreRemitente": "PROFR. JOSÉ PINEDA JIMÉNEZ",
-      "PuestoRemitente": "DIR. DE LA ESC. SEC. TÉC. \"\"\"\"CARLOS DARWIN\"\"\"\", XALITLA, MPIO. DE TEPECOACUILCO DE TRUJANO",
+      "PuestoRemitente": "DIR. DE LA ESC. SEC. TÉC. \"CARLOS DARWIN\", XALITLA, MPIO. DE TEPECOACUILCO DE TRUJANO",
       "AreaRemitente": "SECRETARÍA DE EDUCACIÓN GUERRERO"
     },
     {
       "id": 232,
       "NombreRemitente": "M.C. VÍCTOR HUGO TAPIA ABARCA",
-      "PuestoRemitente": "DIR. DE LA ESC. SEC. TÉC. INDUSTRIAL NO. 81 \"\"\"\"AARÓN M. FLORES MOCTEZUMA\"\"\"\", CIUDAD",
+      "PuestoRemitente": "DIR. DE LA ESC. SEC. TÉC. INDUSTRIAL NO. 81 \"AARÓN M. FLORES MOCTEZUMA\", CIUDAD",
       "AreaRemitente": "SECRETARÍA DE EDUCACIÓN GUERRERO"
     },
     {
       "id": 233,
       "NombreRemitente": "C. HERMINIO ANTONIO VIVAS",
-      "PuestoRemitente": "DIR. DE LA ESC. TELSEC. \"\"\"\"ADOLFO LÓPEZ MATEOS\"\"\"\", AMEYALTEPEC, MPIO DE EDUARDO NERI ",
+      "PuestoRemitente": "DIR. DE LA ESC. TELSEC. \"ADOLFO LÓPEZ MATEOS\", AMEYALTEPEC, MPIO DE EDUARDO NERI ",
       "AreaRemitente": "SECRETARÍA DE EDUCACIÓN GUERRERO"
     },
     {
       "id": 234,
       "NombreRemitente": "PROFR. HÉCTOR ONOFRE SEGURA Y FIRMANTES",
-      "PuestoRemitente": "DIR. DE LA ESC. TELSEC. \"\"\"\"BENITO JUÁREZ GARCÍA\"\"\"\", SAN MARCOS OACATZINGO, MPIO. DE MÁRTIR DE CUILAPAN",
+      "PuestoRemitente": "DIR. DE LA ESC. TELSEC. \"BENITO JUÁREZ GARCÍA\", SAN MARCOS OACATZINGO, MPIO. DE MÁRTIR DE CUILAPAN",
       "AreaRemitente": "SECRETARÍA DE EDUCACIÓN GUERRERO"
     },
     {
       "id": 235,
       "NombreRemitente": "PROFR. ADOLFO CERÓN ALARCÓN",
-      "PuestoRemitente": "DIR. DE LA ESC. TELSEC. \"\"\"\"NICOLÁS BRAVO\"\"\"\", TLAMAMACAN, MPIO. DE MÁRTIR DE CUILAPAN",
+      "PuestoRemitente": "DIR. DE LA ESC. TELSEC. \"NICOLÁS BRAVO\", TLAMAMACAN, MPIO. DE MÁRTIR DE CUILAPAN",
       "AreaRemitente": "SECRETARÍA DE EDUCACIÓN GUERRERO"
     },
     {
       "id": 236,
       "NombreRemitente": "C. YOLANDA MARIÑO JIMÉNEZ Y FIRMANTES",
-      "PuestoRemitente": "DIR. DEL J.N. \"\"\"\"RAFAEL JIMÉNEZ PARRA\"\"\"\", TULIMÁN, MPIO DE HUITZUCO DE LOS FIGUEROA",
+      "PuestoRemitente": "DIR. DEL J.N. \"RAFAEL JIMÉNEZ PARRA\", TULIMÁN, MPIO DE HUITZUCO DE LOS FIGUEROA",
       "AreaRemitente": "SECRETARÍA DE EDUCACIÓN GUERRERO"
     },
     {
       "id": 237,
       "NombreRemitente": "PROFR. JESÚS LÓPEZ BARCENAS Y FIRMANTES",
-      "PuestoRemitente": "DIR. ESC. PRIM. RUR. FED. \"\"\"\"EMILIANO ZAPATA\"\"\"\", CARRIZALILLO MPIO. DE EDUARDO NERI",
+      "PuestoRemitente": "DIR. ESC. PRIM. RUR. FED. \"EMILIANO ZAPATA\", CARRIZALILLO MPIO. DE EDUARDO NERI",
       "AreaRemitente": "SECRETARÍA DE EDUCACIÓN GUERRERO"
     },
     {
@@ -1431,13 +1431,13 @@
     {
       "id": 239,
       "NombreRemitente": "DR. MANUEL SALVADOR QUEVEDO BERNABÉ",
-      "PuestoRemitente": "DIRECTOR ADMINISTRATIVO DEL DEL \"\"\"\"INSTITUTO MONTSERRAT\"\"\"\"",
+      "PuestoRemitente": "DIRECTOR ADMINISTRATIVO DEL DEL \"INSTITUTO MONTSERRAT\"",
       "AreaRemitente": "SECRETARÍA DE EDUCACIÓN GUERRERO"
     },
     {
       "id": 240,
       "NombreRemitente": "MTRO. SAÚL RAMÍREZ HERNÁNDEZ",
-      "PuestoRemitente": "DIRECTOR COMISIONADO DE LA ESCUELA PRIMARIA RURAL FEDERAL \"\"\"\"LÁZARO CARDENAS\"\"\"\", SANTA ROSA, MPIO. DE TÉCPAN DE GALEANA",
+      "PuestoRemitente": "DIRECTOR COMISIONADO DE LA ESCUELA PRIMARIA RURAL FEDERAL \"LÁZARO CARDENAS\", SANTA ROSA, MPIO. DE TÉCPAN DE GALEANA",
       "AreaRemitente": "SECRETARÍA DE EDUCACIÓN GUERRERO"
     },
     {
@@ -1503,67 +1503,67 @@
     {
       "id": 251,
       "NombreRemitente": "PROFR. VÍCTOR HUGO PINEDA ISLAO",
-      "PuestoRemitente": "DIRECTOR DE LA ESC. PRIM. \"\"\"\"JARDINES DE ZINNIA\"\"\"\", CIUDAD",
+      "PuestoRemitente": "DIRECTOR DE LA ESC. PRIM. \"JARDINES DE ZINNIA\", CIUDAD",
       "AreaRemitente": "SECRETARÍA DE EDUCACIÓN GUERRERO"
     },
     {
       "id": 252,
       "NombreRemitente": "C. ANDRÉS CATARINO CABELLO Y FIRMANTE",
-      "PuestoRemitente": "DIRECTOR DE LA ESC. PRIM. \"\"\"\"PRIMERO DE MARZO\"\"\"\" AYUTLA DE LOS LIBRES",
+      "PuestoRemitente": "DIRECTOR DE LA ESC. PRIM. \"PRIMERO DE MARZO\" AYUTLA DE LOS LIBRES",
       "AreaRemitente": "SECRETARÍA DE EDUCACIÓN GUERRERO"
     },
     {
       "id": 253,
       "NombreRemitente": "MTRO. BENITO ÁNGEL GARCÍA HERNÁNDEZ",
-      "PuestoRemitente": "DIRECTOR DE LA ESC. SEC. \"\"\"\"RAYMUNDO ABARCA ALARCÓN\"\"\"\", CIUDAD",
+      "PuestoRemitente": "DIRECTOR DE LA ESC. SEC. \"RAYMUNDO ABARCA ALARCÓN\", CIUDAD",
       "AreaRemitente": "SECRETARÍA DE EDUCACIÓN GUERRERO"
     },
     {
       "id": 254,
       "NombreRemitente": "PROFR. MIGUEL ÁNGEL RAMÍREZ AGUILAR",
-      "PuestoRemitente": "DIRECTOR DE LA ESC. SECUNDARIA TÉC. NO.128 \"\"\"\"AQUILES SERDAN\"\"\"\", TONALAPA DEL SUR MPIO. DE TEPECOACUILCO DE TRUJANO",
+      "PuestoRemitente": "DIRECTOR DE LA ESC. SECUNDARIA TÉC. NO.128 \"AQUILES SERDAN\", TONALAPA DEL SUR MPIO. DE TEPECOACUILCO DE TRUJANO",
       "AreaRemitente": "SECRETARÍA DE EDUCACIÓN GUERRERO"
     },
     {
       "id": 255,
       "NombreRemitente": "PROFR. DAVID GARCÍA LIBRADO",
-      "PuestoRemitente": "DIRECTOR DE LA ESCUELA BILINGÜE \"\"\"\"PROEZA DE GUERRERO\"\"\"\", SANTA CRUZ MPIO. DE TLALIXTAQUILLA DE MALDONADO",
+      "PuestoRemitente": "DIRECTOR DE LA ESCUELA BILINGÜE \"PROEZA DE GUERRERO\", SANTA CRUZ MPIO. DE TLALIXTAQUILLA DE MALDONADO",
       "AreaRemitente": "SECRETARÍA DE EDUCACIÓN GUERRERO"
     },
     {
       "id": 256,
       "NombreRemitente": "PROFR. VALENTÍN VILLEGAS HERNÁNDEZ Y FIRMANTES",
-      "PuestoRemitente": "DIRECTOR DE LA ESCUELA PRIMARIA BILINGÜE \"\"\"\"ANTONIO PLAZA\"\"\"\", ZAPOTITLÁN TABLAS ",
+      "PuestoRemitente": "DIRECTOR DE LA ESCUELA PRIMARIA BILINGÜE \"ANTONIO PLAZA\", ZAPOTITLÁN TABLAS ",
       "AreaRemitente": "SECRETARÍA DE EDUCACIÓN GUERRERO"
     },
     {
       "id": 257,
       "NombreRemitente": "PROFR. SALVADOR GALEANA ORTEGA Y FIRMANTES",
-      "PuestoRemitente": "DIRECTOR DE LA ESCUELA PRIMARIA BILINGÜE \"\"\"\"JOSEFA ORTIZ DE DOMINGUEZ\"\"\"\", TLAPA DE COMONFORT ",
+      "PuestoRemitente": "DIRECTOR DE LA ESCUELA PRIMARIA BILINGÜE \"JOSEFA ORTIZ DE DOMINGUEZ\", TLAPA DE COMONFORT ",
       "AreaRemitente": "SECRETARÍA DE EDUCACIÓN GUERRERO"
     },
     {
       "id": 258,
       "NombreRemitente": "C. CRECENCIO NICOLAS SANTIAGO",
-      "PuestoRemitente": "DIRECTOR DE LA ESCUELA PRIMARIA INTERCULTURAL BILINGÜE \"\"\"\"LUIS DONALDO COLOSIO\"\"\"\", COCHOAPA, MPIO. DE OMETEPEC",
+      "PuestoRemitente": "DIRECTOR DE LA ESCUELA PRIMARIA INTERCULTURAL BILINGÜE \"LUIS DONALDO COLOSIO\", COCHOAPA, MPIO. DE OMETEPEC",
       "AreaRemitente": "SECRETARÍA DE EDUCACIÓN GUERRERO"
     },
     {
       "id": 259,
       "NombreRemitente": "C. SALVADOR CRESCENCIO MORALES",
-      "PuestoRemitente": "DIRECTOR DE LA ESCUELA PRIMARIA INTERCULTURAL BILINGUE \"\"\"\"NIÑOS HEROES\"\"\"\", ZACUALPAN, MPIO. OMETEPEC ",
+      "PuestoRemitente": "DIRECTOR DE LA ESCUELA PRIMARIA INTERCULTURAL BILINGUE \"NIÑOS HEROES\", ZACUALPAN, MPIO. OMETEPEC ",
       "AreaRemitente": "SECRETARÍA DE EDUCACIÓN GUERRERO"
     },
     {
       "id": 260,
       "NombreRemitente": "PROFR. JOSÉ ENCARNACIÓN ROJAS",
-      "PuestoRemitente": "DIRECTOR DE LA ESCUELA PRIMARIA RURAL FEDERAL \"\"\"\"ADOLFO LÓPEZ MATEOS\"\"\"\", ACHIGCA, MPIO. DE QUECHULTENANGO",
+      "PuestoRemitente": "DIRECTOR DE LA ESCUELA PRIMARIA RURAL FEDERAL \"ADOLFO LÓPEZ MATEOS\", ACHIGCA, MPIO. DE QUECHULTENANGO",
       "AreaRemitente": "SECRETARÍA DE EDUCACIÓN GUERRERO"
     },
     {
       "id": 261,
       "NombreRemitente": "PROFRE. GENARO MUÑOZ ROSALES",
-      "PuestoRemitente": "DIRECTOR DE LA ESCUELA PRIMARIA RURAL FEDERAL \"\"\"\"AZTECA\"\"\"\", ATLIXTAC, MPIO. DE LEONARDO BRAVO",
+      "PuestoRemitente": "DIRECTOR DE LA ESCUELA PRIMARIA RURAL FEDERAL \"AZTECA\", ATLIXTAC, MPIO. DE LEONARDO BRAVO",
       "AreaRemitente": "SECRETARÍA DE EDUCACIÓN GUERRERO"
     },
     {
@@ -1575,109 +1575,109 @@
     {
       "id": 263,
       "NombreRemitente": "LIC. FREDERIK BARRIOS MOLINA",
-      "PuestoRemitente": "DIRECTOR DE LA ESCUELA PRIMARIA URBANA FEDERAL \"\"\"\"HÉROES DEL SUR\"\"\"\", CIUDAD ",
+      "PuestoRemitente": "DIRECTOR DE LA ESCUELA PRIMARIA URBANA FEDERAL \"HÉROES DEL SUR\", CIUDAD ",
       "AreaRemitente": "SECRETARÍA DE EDUCACIÓN GUERRERO"
     },
     {
       "id": 264,
       "NombreRemitente": "MTRO. VÍCTOR HUGO VALLE VARGAS",
-      "PuestoRemitente": "DIRECTOR DE LA ESCUELA PRIMARIA URBANA FEDERAL \"\"\"\"IGNACIO MANUEL M. ALTAMIRANO\"\"\"\", T.V., TIXTLA DE GUERRERO",
+      "PuestoRemitente": "DIRECTOR DE LA ESCUELA PRIMARIA URBANA FEDERAL \"IGNACIO MANUEL M. ALTAMIRANO\", T.V., TIXTLA DE GUERRERO",
       "AreaRemitente": "SECRETARÍA DE EDUCACIÓN GUERRERO"
     },
     {
       "id": 265,
       "NombreRemitente": "PROFR. VICENTE GARCÍA IZOTECO",
-      "PuestoRemitente": "DIRECTOR DE LA ESCUELA PRIMARIA URBANA FEDERAL \"\"\"\"VICENTE GUERRERO\"\"\"\", TIXTLA DE GUERRERO",
+      "PuestoRemitente": "DIRECTOR DE LA ESCUELA PRIMARIA URBANA FEDERAL \"VICENTE GUERRERO\", TIXTLA DE GUERRERO",
       "AreaRemitente": "SECRETARÍA DE EDUCACIÓN GUERRERO"
     },
     {
       "id": 266,
       "NombreRemitente": "PROFR. JOAQUÍN LUGO MILLÁN",
-      "PuestoRemitente": "DIRECTOR DE LA ESCUELA SECUNDARIA GENERAL \"\"\"\"ANTONIO I. DELGADO\"\"\"\", CIUDAD",
+      "PuestoRemitente": "DIRECTOR DE LA ESCUELA SECUNDARIA GENERAL \"ANTONIO I. DELGADO\", CIUDAD",
       "AreaRemitente": "SECRETARÍA DE EDUCACIÓN GUERRERO"
     },
     {
       "id": 267,
       "NombreRemitente": "PROFR.  VÍCTOR ALFREDO APONTE BELLO",
-      "PuestoRemitente": "DIRECTOR DE LA ESCUELA SECUNDARIA GENERAL \"\"\"\"DR. GALO SOBERÓN Y PARRA\"\"\"\", CIUDAD",
+      "PuestoRemitente": "DIRECTOR DE LA ESCUELA SECUNDARIA GENERAL \"DR. GALO SOBERÓN Y PARRA\", CIUDAD",
       "AreaRemitente": "SECRETARÍA DE EDUCACIÓN GUERRERO"
     },
     {
       "id": 268,
       "NombreRemitente": "MTRO. CÉSAR GUSTAVO BELLO SÁNCHEZ",
-      "PuestoRemitente": "DIRECTOR DE LA ESCUELA SECUNDARIA GENERAL \"\"\"\"GERARDO RAFAEL CATALÁN CALVO\"\"\"\", MAZATLÁN",
+      "PuestoRemitente": "DIRECTOR DE LA ESCUELA SECUNDARIA GENERAL \"GERARDO RAFAEL CATALÁN CALVO\", MAZATLÁN",
       "AreaRemitente": "SECRETARÍA DE EDUCACIÓN GUERRERO"
     },
     {
       "id": 269,
       "NombreRemitente": "DR. MIGUEL PEDRO SAMPEIRO FIGUEROA",
-      "PuestoRemitente": "DIRECTOR DE LA ESCUELA SECUNDARIA GENERAL \"\"\"\"PLAN DE IGUALA\"\"\"\", IGUALA DE LA INDEPENDENCIA",
+      "PuestoRemitente": "DIRECTOR DE LA ESCUELA SECUNDARIA GENERAL \"PLAN DE IGUALA\", IGUALA DE LA INDEPENDENCIA",
       "AreaRemitente": "SECRETARÍA DE EDUCACIÓN GUERRERO"
     },
     {
       "id": 270,
       "NombreRemitente": "PROFR. FELIPE BELLO VARGAS",
-      "PuestoRemitente": "DIRECTOR DE LA ESCUELA SECUNDARIA GENERAL NÚM. 6 \"\"\"\"TIERRA Y LIBERTAD\"\"\"\", ACAPULCO",
+      "PuestoRemitente": "DIRECTOR DE LA ESCUELA SECUNDARIA GENERAL NÚM. 6 \"TIERRA Y LIBERTAD\", ACAPULCO",
       "AreaRemitente": "SECRETARÍA DE EDUCACIÓN GUERRERO"
     },
     {
       "id": 271,
       "NombreRemitente": "PROFR. RAFAEL LÓPEZ PÉREZ",
-      "PuestoRemitente": "DIRECTOR DE LA ESCUELA SECUNDARIA TÉCNICA 170 \"\"\"\"MOISÉS SÁENZ  GARZA\"\"\"\", CRUZ QUEMADA. MPIO. DE TECOANAPA",
+      "PuestoRemitente": "DIRECTOR DE LA ESCUELA SECUNDARIA TÉCNICA 170 \"MOISÉS SÁENZ  GARZA\", CRUZ QUEMADA. MPIO. DE TECOANAPA",
       "AreaRemitente": "SECRETARÍA DE EDUCACIÓN GUERRERO"
     },
     {
       "id": 272,
       "NombreRemitente": "PROFR. JORGE ADRIÁN TEPETATE MOYAO",
-      "PuestoRemitente": "DIRECTOR DE LA ESCUELA SECUNDARIA TÉCNICA INDUSTRIAL NO. 30 \"\"\"\"LÁZARO CÁRDENAS DEL RÍO\"\"\"\", CIUDAD ",
+      "PuestoRemitente": "DIRECTOR DE LA ESCUELA SECUNDARIA TÉCNICA INDUSTRIAL NO. 30 \"LÁZARO CÁRDENAS DEL RÍO\", CIUDAD ",
       "AreaRemitente": "SECRETARÍA DE EDUCACIÓN GUERRERO"
     },
     {
       "id": 273,
       "NombreRemitente": "PROFR. LIDIO ESPINOBARROS CANDIA",
-      "PuestoRemitente": "DIRECTOR DE LA ESCUELA SECUNDARIA TÉCNICA NÚM. 305 \"\"\"\"ARMANDO CHAVARRÍA BARRERA\"\"\"\", SAN ÁNGEL, MPIO. CHILAPA DE ÁLVAREZ",
+      "PuestoRemitente": "DIRECTOR DE LA ESCUELA SECUNDARIA TÉCNICA NÚM. 305 \"ARMANDO CHAVARRÍA BARRERA\", SAN ÁNGEL, MPIO. CHILAPA DE ÁLVAREZ",
       "AreaRemitente": "SECRETARÍA DE EDUCACIÓN GUERRERO"
     },
     {
       "id": 274,
       "NombreRemitente": "PROFR. ALEJANDRO QUINTANA ROSA Y FIRMANTES",
-      "PuestoRemitente": "DIRECTOR DE LA ESCUELA TELESECUNDARIA \"\"\"\"ALEJANDRO CERVANTES DELGADO\"\"\"\" LA PINTADA MPIO DE ATOYAC DE ÁLVAREZ",
+      "PuestoRemitente": "DIRECTOR DE LA ESCUELA TELESECUNDARIA \"ALEJANDRO CERVANTES DELGADO\" LA PINTADA MPIO DE ATOYAC DE ÁLVAREZ",
       "AreaRemitente": "SECRETARÍA DE EDUCACIÓN GUERRERO"
     },
     {
       "id": 275,
       "NombreRemitente": "PROFR. ANTONIO RODRÍGUEZ GARCÍA",
-      "PuestoRemitente": "DIRECTOR DE LA ESCUELA TELESECUNDARIA \"\"\"\"AMANDO NERVO\"\"\"\", TENANGO, MPIO. DE AZOYÚ",
+      "PuestoRemitente": "DIRECTOR DE LA ESCUELA TELESECUNDARIA \"AMANDO NERVO\", TENANGO, MPIO. DE AZOYÚ",
       "AreaRemitente": "SECRETARÍA DE EDUCACIÓN GUERRERO"
     },
     {
       "id": 276,
       "NombreRemitente": "C. OSCAR SALMERÓN BALLINAS",
-      "PuestoRemitente": "DIRECTOR DE LA ESCUELA TELESECUNDARIA \"\"\"\"JOSÉ ANTONIO MONTES VARGAS\"\"\"\", CIUDAD",
+      "PuestoRemitente": "DIRECTOR DE LA ESCUELA TELESECUNDARIA \"JOSÉ ANTONIO MONTES VARGAS\", CIUDAD",
       "AreaRemitente": "SECRETARÍA DE EDUCACIÓN GUERRERO"
     },
     {
       "id": 277,
       "NombreRemitente": "PROFR. MANUEL DE LA CRUZ JACOBO Y FIRMANTES",
-      "PuestoRemitente": "DIRECTOR DE LA ESCUELA TELESECUNDARIA \"\"\"\"JOSÉ VASCONCELOS\"\"\"\", EL SALADO, MPIO. DE MOCHITLÁN",
+      "PuestoRemitente": "DIRECTOR DE LA ESCUELA TELESECUNDARIA \"JOSÉ VASCONCELOS\", EL SALADO, MPIO. DE MOCHITLÁN",
       "AreaRemitente": "SECRETARÍA DE EDUCACIÓN GUERRERO"
     },
     {
       "id": 278,
       "NombreRemitente": "PROFR. JUAN DÍAZ GARCÍA Y FIRMANTES",
-      "PuestoRemitente": "DIRECTOR DE LA ESCUELA TELESECUNDARIA \"\"\"\"PLUTARCO ELÍAS CALLES\"\"\"\", EL POTRERITO, MPIO. DE SANTA CRUZ DEL RINCON",
+      "PuestoRemitente": "DIRECTOR DE LA ESCUELA TELESECUNDARIA \"PLUTARCO ELÍAS CALLES\", EL POTRERITO, MPIO. DE SANTA CRUZ DEL RINCON",
       "AreaRemitente": "SECRETARÍA DE EDUCACIÓN GUERRERO"
     },
     {
       "id": 279,
       "NombreRemitente": "MTRO. FRANCISCO JAVIER DAMASO GARCÍA Y FIRMANTE",
-      "PuestoRemitente": "DIRECTOR DE LA ESCUELA TELESECUNDARIA \"\"\"\"SOR JUANA INÉS DE LA CRUZ\"\"\"\". TOMACTILICÁN, MPIO. DE JOSÉ JOAQUÍN DE HERRERA",
+      "PuestoRemitente": "DIRECTOR DE LA ESCUELA TELESECUNDARIA \"SOR JUANA INÉS DE LA CRUZ\". TOMACTILICÁN, MPIO. DE JOSÉ JOAQUÍN DE HERRERA",
       "AreaRemitente": "SECRETARÍA DE EDUCACIÓN GUERRERO"
     },
     {
       "id": 280,
       "NombreRemitente": "C. ENRIQUE ARTURO CASARRUBIAS GUTIÉRREZ ",
-      "PuestoRemitente": "DIRECTOR DE LA ESCUELA TELSECUNDARIA \"\"\"\"ISAAC NEWTON\"\"\"\", NEJAPA, MPIO. DE CHILAPA DE ÁLVAREZ",
+      "PuestoRemitente": "DIRECTOR DE LA ESCUELA TELSECUNDARIA \"ISAAC NEWTON\", NEJAPA, MPIO. DE CHILAPA DE ÁLVAREZ",
       "AreaRemitente": "SECRETARÍA DE EDUCACIÓN GUERRERO"
     },
     {
@@ -1737,7 +1737,7 @@
     {
       "id": 290,
       "NombreRemitente": "PROFR. ALBERTO ALBAÑIL BELLO",
-      "PuestoRemitente": "DIRECTOR DEL CEBA \"\"\"\"FRANCISCO GONZÁLEZ BOCANEGRA\"\"\"\", REGIÓN CENTRO",
+      "PuestoRemitente": "DIRECTOR DEL CEBA \"FRANCISCO GONZÁLEZ BOCANEGRA\", REGIÓN CENTRO",
       "AreaRemitente": "SECRETARÍA DE EDUCACIÓN GUERRERO"
     },
     {
@@ -1755,13 +1755,13 @@
     {
       "id": 293,
       "NombreRemitente": "PROFR. HÉCTOR MAUEL ORTIZ JACOBO",
-      "PuestoRemitente": "DIRECTOR DEL CENTRO DE INTEGRACIÓN SOCIAL \"\"\"\"CIS 11 CUAYAHUTITAL\"\"\"\", ATENANGO DEL RIO",
+      "PuestoRemitente": "DIRECTOR DEL CENTRO DE INTEGRACIÓN SOCIAL \"CIS 11 CUAYAHUTITAL\", ATENANGO DEL RIO",
       "AreaRemitente": "SECRETARÍA DE EDUCACIÓN GUERRERO"
     },
     {
       "id": 294,
       "NombreRemitente": "PROFR. HÉCTOR MANUEL ORTIZ JACOBO",
-      "PuestoRemitente": "DIRECTOR DEL CENTRO DE INTEGRACIÓN SOCIAL \"\"\"\"CIS 11 CUAYAHUTITAL\"\"\"\", ATENANGO DEL RÍO",
+      "PuestoRemitente": "DIRECTOR DEL CENTRO DE INTEGRACIÓN SOCIAL \"CIS 11 CUAYAHUTITAL\", ATENANGO DEL RÍO",
       "AreaRemitente": "SECRETARÍA DE EDUCACIÓN GUERRERO"
     },
     {
@@ -1773,7 +1773,7 @@
     {
       "id": 296,
       "NombreRemitente": "MTRO. ARMANDO FIERRO VARGAS",
-      "PuestoRemitente": "DIRECTOR DEL COLEGIO DE BACHILLERES DEL ESTADO PLANTEL N°32 \"\"\"\"ADOLFO RUIZ CORTINES\"\"\"\", ACAPULCO DE JUÁREZ",
+      "PuestoRemitente": "DIRECTOR DEL COLEGIO DE BACHILLERES DEL ESTADO PLANTEL N°32 \"ADOLFO RUIZ CORTINES\", ACAPULCO DE JUÁREZ",
       "AreaRemitente": "SECRETARÍA DE EDUCACIÓN GUERRERO"
     },
     {
@@ -1803,13 +1803,13 @@
     {
       "id": 301,
       "NombreRemitente": "LIC. EURÍPIDES ASTUDILLO ÁVILA",
-      "PuestoRemitente": "DIRECTOR DEL INSTITUTO DE EDUCACIÓN SUPERIOR \"\"\"\"JAIME TORRES BODET\"\"\"\", ACAPULCO",
+      "PuestoRemitente": "DIRECTOR DEL INSTITUTO DE EDUCACIÓN SUPERIOR \"JAIME TORRES BODET\", ACAPULCO",
       "AreaRemitente": "SECRETARÍA DE EDUCACIÓN GUERRERO"
     },
     {
       "id": 302,
       "NombreRemitente": "LIC. EUSEBIO PÉREZ ALMONTES",
-      "PuestoRemitente": "DIRECTOR DEL INSTITUTO DE ESTUDIOS PARLAMENTARIOS \"\"\"\"EDUARDO NERI\"\"\"\"",
+      "PuestoRemitente": "DIRECTOR DEL INSTITUTO DE ESTUDIOS PARLAMENTARIOS \"EDUARDO NERI\"",
       "AreaRemitente": "CONGRESO LOCAL"
     },
     {
@@ -1833,7 +1833,7 @@
     {
       "id": 306,
       "NombreRemitente": "PROFR. AGUSTIN RIVERA ÁLVAREZ Y FIRMATES",
-      "PuestoRemitente": "DIRECTOR DEL JARDÍN DE NIÑOS \"\"\"\"BRÍGIDA ALFARO\"\"\"\", QUETZALAPA, MPIO. DE AZOYÚ  ",
+      "PuestoRemitente": "DIRECTOR DEL JARDÍN DE NIÑOS \"BRÍGIDA ALFARO\", QUETZALAPA, MPIO. DE AZOYÚ  ",
       "AreaRemitente": "SECRETARÍA DE EDUCACIÓN GUERRERO"
     },
     {
@@ -1851,25 +1851,25 @@
     {
       "id": 309,
       "NombreRemitente": "MTRO. HÉCTOR SÁNCHEZ BERRUM",
-      "PuestoRemitente": "DIRECTOR DEL TALLER DE MATERIAL DIDÁCTICO, TEATRO Y LITERATURA INFANTIL \"\"\"\"MARÍA MONTESSORI\"\"\"\", ACAPULCO",
+      "PuestoRemitente": "DIRECTOR DEL TALLER DE MATERIAL DIDÁCTICO, TEATRO Y LITERATURA INFANTIL \"MARÍA MONTESSORI\", ACAPULCO",
       "AreaRemitente": "SECRETARÍA DE EDUCACIÓN GUERRERO"
     },
     {
       "id": 310,
       "NombreRemitente": "LIC. HÉCTOR SÁNCHEZ BERRUM",
-      "PuestoRemitente": "DIRECTOR DEL TALLER DE MATERIAL DIDÁCTICO, TEATRO Y LITERATURA INFANTIL \"\"\"\"MARÍA MONTESSORI\"\"\"\", ACAPULCO",
+      "PuestoRemitente": "DIRECTOR DEL TALLER DE MATERIAL DIDÁCTICO, TEATRO Y LITERATURA INFANTIL \"MARÍA MONTESSORI\", ACAPULCO",
       "AreaRemitente": "SECRETARÍA DE EDUCACIÓN GUERRERO"
     },
     {
       "id": 311,
       "NombreRemitente": "PROFR. RAUDELT HERNÁNDEZ BUGARIN",
-      "PuestoRemitente": "DIRECTOR ENCARGADO DE LA ESC. SEC. TÉC. \"\"\"\"EMILIANO ZAPATA SALAZAR\"\"\"\", RIO SANTIAGO, MPIO. DE ATOYAC DE ÁLVAREZ",
+      "PuestoRemitente": "DIRECTOR ENCARGADO DE LA ESC. SEC. TÉC. \"EMILIANO ZAPATA SALAZAR\", RIO SANTIAGO, MPIO. DE ATOYAC DE ÁLVAREZ",
       "AreaRemitente": "SECRETARÍA DE EDUCACIÓN GUERRERO"
     },
     {
       "id": 312,
       "NombreRemitente": "PROFR. EMERSON GENARO CERVANTES DE LA ROSA",
-      "PuestoRemitente": "DIRECTOR ENCARGADO DE LA ESCUELA PRIMARIA RURAL \"\"\"\"VICENTE GUERRERO\"\"\"\", APETLANCA MPIO. DE CUETZALA DEL PROGRESO ",
+      "PuestoRemitente": "DIRECTOR ENCARGADO DE LA ESCUELA PRIMARIA RURAL \"VICENTE GUERRERO\", APETLANCA MPIO. DE CUETZALA DEL PROGRESO ",
       "AreaRemitente": "SECRETARÍA DE EDUCACIÓN GUERRERO"
     },
     {
@@ -1917,7 +1917,7 @@
     {
       "id": 320,
       "NombreRemitente": "LIC. ALDO GERARDO MARTÍNEZ GÓMEZ",
-      "PuestoRemitente": "DIRECTOR GENERAL DE INVESTIGACIÓN \"\"\"\"A\"\"\"\" DE LA AUDITORÍA SUPERIOR DE LA FEDERACIÓN (ASF)  ",
+      "PuestoRemitente": "DIRECTOR GENERAL DE INVESTIGACIÓN \"A\" DE LA AUDITORÍA SUPERIOR DE LA FEDERACIÓN (ASF)  ",
       "AreaRemitente": " AUDITORÍA SUPERIOR DE LA FEDERACIÓN"
     },
     {
@@ -2157,43 +2157,43 @@
     {
       "id": 360,
       "NombreRemitente": "MTRA. SUSANA INÉS LEÓN DE JESÚS",
-      "PuestoRemitente": "DIRECTORA DE LA CENTENARIA ESCUELA NORMAL DEL ESTADO \"\"\"\"IGNACIO MANUEL ALTAMIRANO\"\"\"\", CIUDAD",
+      "PuestoRemitente": "DIRECTORA DE LA CENTENARIA ESCUELA NORMAL DEL ESTADO \"IGNACIO MANUEL ALTAMIRANO\", CIUDAD",
       "AreaRemitente": "SECRETARÍA DE EDUCACIÓN GUERRERO"
     },
     {
       "id": 361,
       "NombreRemitente": "C. LORENA ABUNDIO GAMA",
-      "PuestoRemitente": "DIRECTORA DE LA ESC. PRIM. \"\"\"\"JOSÉ A. OCAMPO\"\"\"\", IGUALA DE LA INDEPENDENCIA",
+      "PuestoRemitente": "DIRECTORA DE LA ESC. PRIM. \"JOSÉ A. OCAMPO\", IGUALA DE LA INDEPENDENCIA",
       "AreaRemitente": "SECRETARÍA DE EDUCACIÓN GUERRERO"
     },
     {
       "id": 362,
       "NombreRemitente": "LIC. CELIA VARGAS GARCÍA Y FIRMANTES",
-      "PuestoRemitente": "DIRECTORA DE LA ESC. PRIM. BIL. \"\"\"\"VICENTE GUERRERO\"\"\"\", AHUETLIXPA, MARTIR DE CUILAPA",
+      "PuestoRemitente": "DIRECTORA DE LA ESC. PRIM. BIL. \"VICENTE GUERRERO\", AHUETLIXPA, MARTIR DE CUILAPA",
       "AreaRemitente": "SECRETARÍA DE EDUCACIÓN GUERRERO"
     },
     {
       "id": 363,
       "NombreRemitente": "PROFRA. GAUDENCIA SALGADO LEYVA Y FIRMANTES",
-      "PuestoRemitente": "DIRECTORA DE LA ESC. PRIM. BIL. \"\"\"\"VICENTE GUERRERO\"\"\"\", SAN FRANCISCO OZOMANATLAN, MPIO DE HUITZUCO DE LOS FIGUEROA",
+      "PuestoRemitente": "DIRECTORA DE LA ESC. PRIM. BIL. \"VICENTE GUERRERO\", SAN FRANCISCO OZOMANATLAN, MPIO DE HUITZUCO DE LOS FIGUEROA",
       "AreaRemitente": "SECRETARÍA DE EDUCACIÓN GUERRERO"
     },
     {
       "id": 364,
       "NombreRemitente": "C. KARINA ESMERALDA AGUILAR VAZQUEZ",
-      "PuestoRemitente": "DIRECTORA DE LA ESC. PRIM. RUR. EDO. \"\"\"\"UNIÓN Y PROGRESO\"\"\"\", MIAHUATEPEC MPIO. DE TELOLOAPAN",
+      "PuestoRemitente": "DIRECTORA DE LA ESC. PRIM. RUR. EDO. \"UNIÓN Y PROGRESO\", MIAHUATEPEC MPIO. DE TELOLOAPAN",
       "AreaRemitente": "SECRETARÍA DE EDUCACIÓN GUERRERO"
     },
     {
       "id": 365,
       "NombreRemitente": "MTRA. ROSELIA CHÁVEZ ALONSO ",
-      "PuestoRemitente": "DIRECTORA DE LA ESC. PRIM. URB. FED. MAT. \"\"\"\"PLUTARCO ELÍAS CALLES\"\"\"\", ACAPULCO",
+      "PuestoRemitente": "DIRECTORA DE LA ESC. PRIM. URB. FED. MAT. \"PLUTARCO ELÍAS CALLES\", ACAPULCO",
       "AreaRemitente": "SECRETARÍA DE EDUCACIÓN GUERRERO"
     },
     {
       "id": 366,
       "NombreRemitente": "C. MARTHA PATRICIA SÁNCHEZ SALAZAR",
-      "PuestoRemitente": "DIRECTORA DE LA ESC. PRIM. URB. FED. MAT. \"\"\"\"RUFO FIGUEROA FIGUEROA\"\"\"\", ACAPULCO",
+      "PuestoRemitente": "DIRECTORA DE LA ESC. PRIM. URB. FED. MAT. \"RUFO FIGUEROA FIGUEROA\", ACAPULCO",
       "AreaRemitente": "SECRETARÍA DE EDUCACIÓN GUERRERO"
     },
     {
@@ -2205,91 +2205,91 @@
     {
       "id": 368,
       "NombreRemitente": "PROFRA. DOMINGA PALEMÓN ARCOS",
-      "PuestoRemitente": "DIRECTORA DE LA ESCUELA C.E.P.I \"\"\"\"FUTURO DEL NIÑO\"\"\"\", POCHAHUIZCO MPIO. DE ZITLALA ",
+      "PuestoRemitente": "DIRECTORA DE LA ESCUELA C.E.P.I \"FUTURO DEL NIÑO\", POCHAHUIZCO MPIO. DE ZITLALA ",
       "AreaRemitente": "SECRETARÍA DE EDUCACIÓN GUERRERO"
     },
     {
       "id": 369,
       "NombreRemitente": "DRA. EMMA SENORINA MIRANDA VENTURA",
-      "PuestoRemitente": "DIRECTORA DE LA ESCUELA NORMAL PREESCOLAR \"\"\"\"ADOLFO VIGURI VIGURI\"\"\"\", CIUDAD",
+      "PuestoRemitente": "DIRECTORA DE LA ESCUELA NORMAL PREESCOLAR \"ADOLFO VIGURI VIGURI\", CIUDAD",
       "AreaRemitente": "SECRETARÍA DE EDUCACIÓN GUERRERO"
     },
     {
       "id": 370,
       "NombreRemitente": "MTRA. SOCORRO SANDOVAL HERCULANO Y FIRMANTE",
-      "PuestoRemitente": "DIRECTORA DE LA ESCUELA PRIMARIA \"\"\"\"HIMNO NACIONAL\"\"\"\", PETATLÁN",
+      "PuestoRemitente": "DIRECTORA DE LA ESCUELA PRIMARIA \"HIMNO NACIONAL\", PETATLÁN",
       "AreaRemitente": "SECRETARÍA DE EDUCACIÓN GUERRERO"
     },
     {
       "id": 371,
       "NombreRemitente": "PROFRA. DELFINA RÍOS HERNÁNDEZ",
-      "PuestoRemitente": "DIRECTORA DE LA ESCUELA PRIMARIA \"\"\"\"IGNACIO MANUEL ALTAMIRANO\"\"\"\", PANTITLÁN MPIO. DE CHILAPA DE ÁLVAREZ ",
+      "PuestoRemitente": "DIRECTORA DE LA ESCUELA PRIMARIA \"IGNACIO MANUEL ALTAMIRANO\", PANTITLÁN MPIO. DE CHILAPA DE ÁLVAREZ ",
       "AreaRemitente": "SECRETARÍA DE EDUCACIÓN GUERRERO"
     },
     {
       "id": 372,
       "NombreRemitente": "PROFRA. ALICIA BELLO LONGARES",
-      "PuestoRemitente": "DIRECTORA DE LA ESCUELA PRIMARIA FEDERAL \"\"\"\"PLANDE AYUTLA\"\"\"\", ACAPULCO",
+      "PuestoRemitente": "DIRECTORA DE LA ESCUELA PRIMARIA FEDERAL \"PLANDE AYUTLA\", ACAPULCO",
       "AreaRemitente": "SECRETARÍA DE EDUCACIÓN GUERRERO"
     },
     {
       "id": 373,
       "NombreRemitente": "MTRA. ROSA BUSTOS COLÓN",
-      "PuestoRemitente": "DIRECTORA DE LA ESCUELA PRIMARIA FEDERAL MATUTINA \"\"\"\"NICOLÁS BRAVO\"\"\"\", ACAPULCO",
+      "PuestoRemitente": "DIRECTORA DE LA ESCUELA PRIMARIA FEDERAL MATUTINA \"NICOLÁS BRAVO\", ACAPULCO",
       "AreaRemitente": "SECRETARÍA DE EDUCACIÓN GUERRERO"
     },
     {
       "id": 374,
       "NombreRemitente": "MTRA OBDULIA AGUIRRE RAYO",
-      "PuestoRemitente": "DIRECTORA DE LA ESCUELA PRIMARIA GENERAL MAT. \"\"\"\"ALFONSO GARCÍA ROBLES\"\"\"\", ACAPULCO",
+      "PuestoRemitente": "DIRECTORA DE LA ESCUELA PRIMARIA GENERAL MAT. \"ALFONSO GARCÍA ROBLES\", ACAPULCO",
       "AreaRemitente": "SECRETARÍA DE EDUCACIÓN GUERRERO"
     },
     {
       "id": 375,
       "NombreRemitente": "PROFRA. GLORIA MA. ERENDIRA GARCÍA GIRÓN Y FIRMANTE",
-      "PuestoRemitente": "DIRECTORA DE LA ESCUELA PRIMARIA URBANA FEDERAL \"\"\"\"CARLOS A. CARRILLO\"\"\"\", CD. RENACIMIENTO, ACAPULCO",
+      "PuestoRemitente": "DIRECTORA DE LA ESCUELA PRIMARIA URBANA FEDERAL \"CARLOS A. CARRILLO\", CD. RENACIMIENTO, ACAPULCO",
       "AreaRemitente": "SECRETARÍA DE EDUCACIÓN GUERRERO"
     },
     {
       "id": 376,
       "NombreRemitente": "PROFRA. LETICIA SALGADO GONZÁLEZ",
-      "PuestoRemitente": "DIRECTORA DE LA ESCUELA PRIMARIA URBANA FEDERAL \"\"\"\"IGNACIO M. ALTAMIRANO\"\"\"\", ARCELIA.",
+      "PuestoRemitente": "DIRECTORA DE LA ESCUELA PRIMARIA URBANA FEDERAL \"IGNACIO M. ALTAMIRANO\", ARCELIA.",
       "AreaRemitente": "SECRETARÍA DE EDUCACIÓN GUERRERO"
     },
     {
       "id": 377,
       "NombreRemitente": "MTRA. INÉS MARTÍNEZ JUSTO",
-      "PuestoRemitente": "DIRECTORA DE LA ESCUELA PRIMARIA URBANA MATUTINA \"\"\"\"GABRIELA MISTRAL\"\"\"\", ACAPULCO",
+      "PuestoRemitente": "DIRECTORA DE LA ESCUELA PRIMARIA URBANA MATUTINA \"GABRIELA MISTRAL\", ACAPULCO",
       "AreaRemitente": "SECRETARÍA DE EDUCACIÓN GUERRERO"
     },
     {
       "id": 378,
       "NombreRemitente": "MTRA. YAZMÍN NATIVIDAD COLCHERO AMATECO",
-      "PuestoRemitente": "DIRECTORA DE LA ESCUELA SECUNDARIA \"\"\"\"BALTAZAR R. LEYVA MANCILLA\"\"\"\", TIXTLA, GUERRERO",
+      "PuestoRemitente": "DIRECTORA DE LA ESCUELA SECUNDARIA \"BALTAZAR R. LEYVA MANCILLA\", TIXTLA, GUERRERO",
       "AreaRemitente": "SECRETARÍA DE EDUCACIÓN GUERRERO"
     },
     {
       "id": 379,
       "NombreRemitente": "MTRA. FLORICEL CARRANCO APONTE",
-      "PuestoRemitente": "DIRECTORA DE LA ESCUELA SECUNDARIA \"\"\"\"CUAUHTÉMOC\"\"\"\", TEPECOACUILCO DE TRUJANO",
+      "PuestoRemitente": "DIRECTORA DE LA ESCUELA SECUNDARIA \"CUAUHTÉMOC\", TEPECOACUILCO DE TRUJANO",
       "AreaRemitente": "SECRETARÍA DE EDUCACIÓN GUERRERO"
     },
     {
       "id": 380,
       "NombreRemitente": "MTRA.  MARÍA DE JESÚS RÍOS GÓMEZ",
-      "PuestoRemitente": "DIRECTORA DE LA ESCUELA SECUNDARIA GENERAL NÚMERO 6 \"\"\"\"TIERRA Y LIBERTAD\"\"\"\", ACAPULCO",
+      "PuestoRemitente": "DIRECTORA DE LA ESCUELA SECUNDARIA GENERAL NÚMERO 6 \"TIERRA Y LIBERTAD\", ACAPULCO",
       "AreaRemitente": "SECRETARÍA DE EDUCACIÓN GUERRERO"
     },
     {
       "id": 381,
       "NombreRemitente": "DRA. ELIA DEL SOCORRO OJEDA BENÍTEZ",
-      "PuestoRemitente": "DIRECTORA DE LA ESCUELA SECUNDARIA NO. 79 \"\"\"\"CARITINO MALDONADO PÉREZ\"\"\"\", ACAPULCO",
+      "PuestoRemitente": "DIRECTORA DE LA ESCUELA SECUNDARIA NO. 79 \"CARITINO MALDONADO PÉREZ\", ACAPULCO",
       "AreaRemitente": "SECRETARÍA DE EDUCACIÓN GUERRERO"
     },
     {
       "id": 382,
       "NombreRemitente": "PROFRA. ALCIVIDES CARMONA DIMAS",
-      "PuestoRemitente": "DIRECTORA DE LA ESCUELA SECUNDARIA TÉCNICA \"\"\"\"JUAN DEL CARMEN\"\"\"\", TLACOACHISTLAHUACA",
+      "PuestoRemitente": "DIRECTORA DE LA ESCUELA SECUNDARIA TÉCNICA \"JUAN DEL CARMEN\", TLACOACHISTLAHUACA",
       "AreaRemitente": "SECRETARÍA DE EDUCACIÓN GUERRERO"
     },
     {
@@ -2301,37 +2301,37 @@
     {
       "id": 384,
       "NombreRemitente": "MTRA. VIVIANA OLIVA REYES JIMÉNEZ",
-      "PuestoRemitente": "DIRECTORA DE LA ESCUELA SECUNDARIA TÉCNICA NO. 185 \"\"\"\"HERMENEGILDO GALEANA\"\"\"\", CIUDAD",
+      "PuestoRemitente": "DIRECTORA DE LA ESCUELA SECUNDARIA TÉCNICA NO. 185 \"HERMENEGILDO GALEANA\", CIUDAD",
       "AreaRemitente": "SECRETARÍA DE EDUCACIÓN GUERRERO"
     },
     {
       "id": 385,
       "NombreRemitente": "MTRA. MARÍA SOLEDAD CARMONA CLEMENTE",
-      "PuestoRemitente": "DIRECTORA DE LA ESCUELA TELESECUNDARIA \"\"\"\"BENITO JUÁREZ\"\"\"\", PETAQUILLAS, MPIO. DE CHILPANCINGO DE LOS BRAVO",
+      "PuestoRemitente": "DIRECTORA DE LA ESCUELA TELESECUNDARIA \"BENITO JUÁREZ\", PETAQUILLAS, MPIO. DE CHILPANCINGO DE LOS BRAVO",
       "AreaRemitente": "SECRETARÍA DE EDUCACIÓN GUERRERO"
     },
     {
       "id": 386,
       "NombreRemitente": "PROFRA. ARACELI NAVA VENTURA Y FIRMANTE",
-      "PuestoRemitente": "DIRECTORA DE LA ESCUELA TELESECUNDARIA \"\"\"\"DIEGO RIVERA\"\"\"\", CIUDAD",
+      "PuestoRemitente": "DIRECTORA DE LA ESCUELA TELESECUNDARIA \"DIEGO RIVERA\", CIUDAD",
       "AreaRemitente": "SECRETARÍA DE EDUCACIÓN GUERRERO"
     },
     {
       "id": 387,
       "NombreRemitente": "MTRA. ROMANITA RAMOS MONDRAGÓN",
-      "PuestoRemitente": "DIRECTORA DE LA ESCUELA TELESECUNDARIA \"\"\"\"EMILIANO ZAPATA\"\"\"\" CHILPANCINGO",
+      "PuestoRemitente": "DIRECTORA DE LA ESCUELA TELESECUNDARIA \"EMILIANO ZAPATA\" CHILPANCINGO",
       "AreaRemitente": "SECRETARÍA DE EDUCACIÓN GUERRERO"
     },
     {
       "id": 388,
       "NombreRemitente": "PROFRA. MARIBEL FRIAS HERNÁNDEZ Y FIRMANTES",
-      "PuestoRemitente": "DIRECTORA DE LA ESCUELA TELESECUNDARIA \"\"\"\"JOSÉ VASCONCELOS CALDERÓN\"\"\"\", LOS CHEGÜES, MPIO. DE AZOYÚ",
+      "PuestoRemitente": "DIRECTORA DE LA ESCUELA TELESECUNDARIA \"JOSÉ VASCONCELOS CALDERÓN\", LOS CHEGÜES, MPIO. DE AZOYÚ",
       "AreaRemitente": "SECRETARÍA DE EDUCACIÓN GUERRERO"
     },
     {
       "id": 389,
       "NombreRemitente": "MTRA. NATIVIDAD MUÑOZ NAVA Y FIRMANTES",
-      "PuestoRemitente": "DIRECTORA DE LA ESCUELA TELESECUNDARIA \"\"\"\"SOR JUANA INÉS DE LA CRUZ\"\"\"\", CIUDAD",
+      "PuestoRemitente": "DIRECTORA DE LA ESCUELA TELESECUNDARIA \"SOR JUANA INÉS DE LA CRUZ\", CIUDAD",
       "AreaRemitente": "SECRETARÍA DE EDUCACIÓN GUERRERO"
     },
     {
@@ -2349,7 +2349,7 @@
     {
       "id": 392,
       "NombreRemitente": "PROFRA. BENITA TORREBLANCA CABALLERO",
-      "PuestoRemitente": "DIRECTORA DEL C.E.P.I. \"\"\"\"JUAN ESCUTIA\"\"\"\", EL POTRERO, MPIO. DE TIXTLA DE GUERRERO",
+      "PuestoRemitente": "DIRECTORA DEL C.E.P.I. \"JUAN ESCUTIA\", EL POTRERO, MPIO. DE TIXTLA DE GUERRERO",
       "AreaRemitente": "SECRETARÍA DE EDUCACIÓN GUERRERO"
     },
     {
@@ -2373,85 +2373,85 @@
     {
       "id": 396,
       "NombreRemitente": "MTRA. GABRIELA GARCÍA VALDÉZ",
-      "PuestoRemitente": "DIRECTORA DEL EL CENTRO DE ATENCIÓN INFANTIL (CAI) NO. 4 \"\"\"\"OCTAVIO PAZ\"\"\"\", CIUDAD",
+      "PuestoRemitente": "DIRECTORA DEL EL CENTRO DE ATENCIÓN INFANTIL (CAI) NO. 4 \"OCTAVIO PAZ\", CIUDAD",
       "AreaRemitente": "SECRETARÍA DE EDUCACIÓN GUERRERO"
     },
     {
       "id": 397,
       "NombreRemitente": "C. YOLANDA NARIÑO JIMÉNEZ Y FIRMANTE",
-      "PuestoRemitente": "DIRECTORA DEL J. N. \"\"\"\"RAFAEL JIMÉNEZ PARRA\"\"\"\", TULIMÁN, MPIO. DE HUITZUCO DE LOS FIGUEROA.",
+      "PuestoRemitente": "DIRECTORA DEL J. N. \"RAFAEL JIMÉNEZ PARRA\", TULIMÁN, MPIO. DE HUITZUCO DE LOS FIGUEROA.",
       "AreaRemitente": "SECRETARÍA DE EDUCACIÓN GUERRERO"
     },
     {
       "id": 398,
       "NombreRemitente": "C. CRISTINA ESTRADA MARTÍNEZ",
-      "PuestoRemitente": "DIRECTORA DEL JARDÍN DE NIÑOS \"\"\"\"CALMECAC\"\"\"\" ACAPULCO",
+      "PuestoRemitente": "DIRECTORA DEL JARDÍN DE NIÑOS \"CALMECAC\" ACAPULCO",
       "AreaRemitente": "SECRETARÍA DE EDUCACIÓN GUERRERO"
     },
     {
       "id": 399,
       "NombreRemitente": "MTRA. MA. DEL ROSARIO GALEANA HERRERA Y FIRMANTE",
-      "PuestoRemitente": "DIRECTORA DEL JARDÍN DE NIÑOS \"\"\"\"CLUB ROTARIO\"\"\"\", IGUALA DE LA INDEPENDENCIA.",
+      "PuestoRemitente": "DIRECTORA DEL JARDÍN DE NIÑOS \"CLUB ROTARIO\", IGUALA DE LA INDEPENDENCIA.",
       "AreaRemitente": "SECRETARÍA DE EDUCACIÓN GUERRERO"
     },
     {
       "id": 400,
       "NombreRemitente": "PROFRA. KAREN MILDRED GARCÍA RAMÍREZ",
-      "PuestoRemitente": "DIRECTORA DEL JARDÍN DE NIÑOS \"\"\"\"COYUCAN\"\"\"\", LA LIMA, MPIO. DE COYUCA DE BENÍTEZ",
+      "PuestoRemitente": "DIRECTORA DEL JARDÍN DE NIÑOS \"COYUCAN\", LA LIMA, MPIO. DE COYUCA DE BENÍTEZ",
       "AreaRemitente": "SECRETARÍA DE EDUCACIÓN GUERRERO"
     },
     {
       "id": 401,
       "NombreRemitente": "MTRA. NATALI MORELOS TEXTA",
-      "PuestoRemitente": "DIRECTORA DEL JARDÍN DE NIÑOS \"\"\"\"DR. ELEAZAR L. ACOSTA ROMERO\"\"\"\", SAN LUIS SAN PEDRO, MPIO. DE TECPAN DE GALEANA ",
+      "PuestoRemitente": "DIRECTORA DEL JARDÍN DE NIÑOS \"DR. ELEAZAR L. ACOSTA ROMERO\", SAN LUIS SAN PEDRO, MPIO. DE TECPAN DE GALEANA ",
       "AreaRemitente": "SECRETARÍA DE EDUCACIÓN GUERRERO"
     },
     {
       "id": 402,
       "NombreRemitente": "PROFRA. EVA RAMOS COLOTZIN",
-      "PuestoRemitente": "DIRECTORA DEL JARDÍN DE NIÑOS \"\"\"\"ISABEL LA CATÓLICA\"\"\"\", CHILAPA DE ÁLVAREZ",
+      "PuestoRemitente": "DIRECTORA DEL JARDÍN DE NIÑOS \"ISABEL LA CATÓLICA\", CHILAPA DE ÁLVAREZ",
       "AreaRemitente": "SECRETARÍA DE EDUCACIÓN GUERRERO"
     },
     {
       "id": 403,
       "NombreRemitente": "PROFRA. GEMA SÁENZ HERNÁNDEZ",
-      "PuestoRemitente": "DIRECTORA DEL JARDÍN DE NIÑOS \"\"\"\"JACQUELYN PRATT DE SAIDI\"\"\"\", EL POTRERO, MPIO. DE TAXCO DE ALARCÓN  ",
+      "PuestoRemitente": "DIRECTORA DEL JARDÍN DE NIÑOS \"JACQUELYN PRATT DE SAIDI\", EL POTRERO, MPIO. DE TAXCO DE ALARCÓN  ",
       "AreaRemitente": "SECRETARÍA DE EDUCACIÓN GUERRERO"
     },
     {
       "id": 404,
       "NombreRemitente": "PROFRA. SOFÍA VÁZQUEZ CARMONA",
-      "PuestoRemitente": "DIRECTORA DEL JARDÍN DE NIÑOS \"\"\"\"JUAN RUIZ DE ALARCÓN\"\"\"\", ACAPULCO",
+      "PuestoRemitente": "DIRECTORA DEL JARDÍN DE NIÑOS \"JUAN RUIZ DE ALARCÓN\", ACAPULCO",
       "AreaRemitente": "SECRETARÍA DE EDUCACIÓN GUERRERO"
     },
     {
       "id": 405,
       "NombreRemitente": "LEP. ADI DEL CARMEN MARTÍNEZ VÁZQUEZ Y FIRMANTES",
-      "PuestoRemitente": "DIRECTORA DEL JARDÍN DE NIÑOS \"\"\"\"MOISÉS GUEVARA VILLALBA\"\"\"\", CIUDAD",
+      "PuestoRemitente": "DIRECTORA DEL JARDÍN DE NIÑOS \"MOISÉS GUEVARA VILLALBA\", CIUDAD",
       "AreaRemitente": "SECRETARÍA DE EDUCACIÓN GUERRERO"
     },
     {
       "id": 406,
       "NombreRemitente": "C. MARÍA HERLINDA MONDRAGÓN SALINAS",
-      "PuestoRemitente": "DIRECTORA DEL JARDÍN DE NIÑOS \"\"\"\"NIÑO ARTILLERO, CIUDAD",
+      "PuestoRemitente": "DIRECTORA DEL JARDÍN DE NIÑOS \"NIÑO ARTILLERO, CIUDAD",
       "AreaRemitente": "SECRETARÍA DE EDUCACIÓN GUERRERO"
     },
     {
       "id": 407,
       "NombreRemitente": "PROFRA. YESENIA AMÉRICA MEAVE MUÑIZ",
-      "PuestoRemitente": "DIRECTORA DEL JARDÍN DE NIÑOS \"\"\"\"TOTOTZINTLE YUKUKIMI\"\"\"\", TLAPA DE COMONFORT",
+      "PuestoRemitente": "DIRECTORA DEL JARDÍN DE NIÑOS \"TOTOTZINTLE YUKUKIMI\", TLAPA DE COMONFORT",
       "AreaRemitente": "SECRETARÍA DE EDUCACIÓN GUERRERO"
     },
     {
       "id": 408,
       "NombreRemitente": "PROFRA. YOZENIT ESTRADA LUCENA",
-      "PuestoRemitente": "DIRECTORA DEL JARDÍN DE NIÑOS \"\"\"\"XEMPOALXOCHILT\"\"\"\" SAN PEDRO AYTEC, MPIO. DE HUAMUXTITLAN",
+      "PuestoRemitente": "DIRECTORA DEL JARDÍN DE NIÑOS \"XEMPOALXOCHILT\" SAN PEDRO AYTEC, MPIO. DE HUAMUXTITLAN",
       "AreaRemitente": "SECRETARÍA DE EDUCACIÓN GUERRERO"
     },
     {
       "id": 409,
       "NombreRemitente": "PROFRA. AIDE PORTILLO GARCÍA",
-      "PuestoRemitente": "DIRECTORA DEL JARDÍN DE NIÑOS \"\"\"\"YOLOXOCHITL\"\"\"\", TLAPA DE COMONFORTT",
+      "PuestoRemitente": "DIRECTORA DEL JARDÍN DE NIÑOS \"YOLOXOCHITL\", TLAPA DE COMONFORTT",
       "AreaRemitente": "SECRETARÍA DE EDUCACIÓN GUERRERO"
     },
     {
@@ -2481,55 +2481,55 @@
     {
       "id": 414,
       "NombreRemitente": "PROFR. NEIDY HILARIO CASARRUBIAS",
-      "PuestoRemitente": "DIRECTORA DELC.E.P.I.\"\"\"\"VALENTÍN GÓMEZ FARÍAS\"\"\"\" LA ESPERANZA, MPIO. DE MÁRTIR DE CUILAPAN",
+      "PuestoRemitente": "DIRECTORA DELC.E.P.I.\"VALENTÍN GÓMEZ FARÍAS\" LA ESPERANZA, MPIO. DE MÁRTIR DE CUILAPAN",
       "AreaRemitente": "SECRETARÍA DE EDUCACIÓN GUERRERO"
     },
     {
       "id": 415,
       "NombreRemitente": "MTRA. NINFA APARICIO BAHENA",
-      "PuestoRemitente": "DIRECTORA ENCARGADA DE LA ESC. PRIM. URB. \"\"\"\" LIC. BENITO JUÁREZ\"\"\"\", CUETZALA DEL PROGRESO",
+      "PuestoRemitente": "DIRECTORA ENCARGADA DE LA ESC. PRIM. URB. \" LIC. BENITO JUÁREZ\", CUETZALA DEL PROGRESO",
       "AreaRemitente": "SECRETARÍA DE EDUCACIÓN GUERRERO"
     },
     {
       "id": 416,
       "NombreRemitente": "PROFRA. ELIZABETH ARELLANO DÍAZ",
-      "PuestoRemitente": "DIRECTORA ENCARGADA DEL C.E.P.I. \"\"\"\"16 DE SEPTIEMBRE\"\"\"\", AYOTZINAPA MPIO DE ZITLALA",
+      "PuestoRemitente": "DIRECTORA ENCARGADA DEL C.E.P.I. \"16 DE SEPTIEMBRE\", AYOTZINAPA MPIO DE ZITLALA",
       "AreaRemitente": "SECRETARÍA DE EDUCACIÓN GUERRERO"
     },
     {
       "id": 417,
       "NombreRemitente": "MTRA. CECILIA TOMATZIN VALLE",
-      "PuestoRemitente": "DIRECTORA ENCARGADA DEL C.E.P.I. \"\"\"\"20 DE NOVIEMBRE\"\"\"\", AZOACAPA MPIO. ZITLALA",
+      "PuestoRemitente": "DIRECTORA ENCARGADA DEL C.E.P.I. \"20 DE NOVIEMBRE\", AZOACAPA MPIO. ZITLALA",
       "AreaRemitente": "SECRETARÍA DE EDUCACIÓN GUERRERO"
     },
     {
       "id": 418,
       "NombreRemitente": "MTRA. NATIVIDAD MIRANDA ASUNCIÓN",
-      "PuestoRemitente": "DIRECTORA ENCARGADA DEL C.E.P.I. \"\"\"\"NETZAHUALCÓYOL\"\"\"\" DE LA COMUNIDAD DE COYOACÁN CON SEDE OFICIAL EN ZITLALA",
+      "PuestoRemitente": "DIRECTORA ENCARGADA DEL C.E.P.I. \"NETZAHUALCÓYOL\" DE LA COMUNIDAD DE COYOACÁN CON SEDE OFICIAL EN ZITLALA",
       "AreaRemitente": "SECRETARÍA DE EDUCACIÓN GUERRERO"
     },
     {
       "id": 419,
       "NombreRemitente": "C. ZENAIDA MARTÍNEZ SORIANO",
-      "PuestoRemitente": "DIRECTORA ENCARGADA DEL C.E.P.I. \"\"\"\"VICENTE GUERRERO\"\"\"\" ZONA 015",
+      "PuestoRemitente": "DIRECTORA ENCARGADA DEL C.E.P.I. \"VICENTE GUERRERO\" ZONA 015",
       "AreaRemitente": "SECRETARÍA DE EDUCACIÓN GUERRERO"
     },
     {
       "id": 420,
       "NombreRemitente": "MTRA. JUVENCIA VARGAS JAIMES",
-      "PuestoRemitente": "DIRECTORA ENCARGADA DEL CENTRO DE EDUCACIÓN PREESCOLAR INDÍGENA \"\"\"\"5 DE MAYO\"\"\"\", LAS TRANCAS, MPIO. DE ZITLALA ",
+      "PuestoRemitente": "DIRECTORA ENCARGADA DEL CENTRO DE EDUCACIÓN PREESCOLAR INDÍGENA \"5 DE MAYO\", LAS TRANCAS, MPIO. DE ZITLALA ",
       "AreaRemitente": "SECRETARÍA DE EDUCACIÓN GUERRERO"
     },
     {
       "id": 421,
       "NombreRemitente": "M.C. LETICIA TERRERO ANDRES",
-      "PuestoRemitente": "DIRECTORA ENCARGADA DEL CENTRO DE ESTUDIOS PREESCOLAR INDÍGENA \"\"\"\"EMILIANO ZAPATA SALAZAR\"\"\"\", TIXTLA DE GUERRERO",
+      "PuestoRemitente": "DIRECTORA ENCARGADA DEL CENTRO DE ESTUDIOS PREESCOLAR INDÍGENA \"EMILIANO ZAPATA SALAZAR\", TIXTLA DE GUERRERO",
       "AreaRemitente": "SECRETARÍA DE EDUCACIÓN GUERRERO"
     },
     {
       "id": 422,
       "NombreRemitente": "MTRA. NAYELI GÓMEZ SALGADO",
-      "PuestoRemitente": "DIRECTORA ENCARGADA DEL JARDÍN DE NUÑOS \"\"\"\"MARGARITA MAZA DE JUÁREZ\"\"\"\", CIUDAD",
+      "PuestoRemitente": "DIRECTORA ENCARGADA DEL JARDÍN DE NUÑOS \"MARGARITA MAZA DE JUÁREZ\", CIUDAD",
       "AreaRemitente": "SECRETARÍA DE EDUCACIÓN GUERRERO"
     },
     {
@@ -2667,43 +2667,43 @@
     {
       "id": 445,
       "NombreRemitente": "DR. FELIPE DE JESÚS NIEBLAS VERÓNICA",
-      "PuestoRemitente": "DOCENTE DE LA ESCUELA NORMAL URBANA FEDERAL  \"\"\"\"PROFR. RAFAEL RAMÍREZ\"\"\"\", CIUDAD",
+      "PuestoRemitente": "DOCENTE DE LA ESCUELA NORMAL URBANA FEDERAL  \"PROFR. RAFAEL RAMÍREZ\", CIUDAD",
       "AreaRemitente": "DEMANDA CIUDADANA"
     },
     {
       "id": 446,
       "NombreRemitente": "MTRO. ÓSCAR LEOBARDO BASILIO CIENFUEGOS",
-      "PuestoRemitente": "DOCENTE DE LA ESCUELA NORMAL URBANA FEDERAL \"\"\"\"PROFR. RAFAEL RAMÍREZ\"\"\"\", CIUDAD",
+      "PuestoRemitente": "DOCENTE DE LA ESCUELA NORMAL URBANA FEDERAL \"PROFR. RAFAEL RAMÍREZ\", CIUDAD",
       "AreaRemitente": "DEMANDA CIUDADANA"
     },
     {
       "id": 447,
       "NombreRemitente": "DRA. ROSA IRIS SOBERANIS SERRANO",
-      "PuestoRemitente": "DOCENTE DE LA ESCUELA NORMAL URBANA FEDERAL \"\"\"\"PROFR. RAFAEL RAMÍREZ\"\"\"\", CIUDAD. ",
+      "PuestoRemitente": "DOCENTE DE LA ESCUELA NORMAL URBANA FEDERAL \"PROFR. RAFAEL RAMÍREZ\", CIUDAD. ",
       "AreaRemitente": "DEMANDA CIUDADANA"
     },
     {
       "id": 448,
       "NombreRemitente": "PROFRA. DINA CARRERA BACHO",
-      "PuestoRemitente": "DOCENTE DE LA ESCUELA SECUNDARIA GENERAL \"\"\"\"BICENTENARIO DE LA INDEPENDENCIA 2010\"\"\"\", ACAPULCO",
+      "PuestoRemitente": "DOCENTE DE LA ESCUELA SECUNDARIA GENERAL \"BICENTENARIO DE LA INDEPENDENCIA 2010\", ACAPULCO",
       "AreaRemitente": "DEMANDA CIUDADANA"
     },
     {
       "id": 449,
       "NombreRemitente": "PROFRA. DIANA CARRERA BACHO",
-      "PuestoRemitente": "DOCENTE DE LA ESCUELA SECUNDARIA GENERAL \"\"\"\"BICENTENARIO DE LA INDEPENDENCIA 2010, ACAPULCO",
+      "PuestoRemitente": "DOCENTE DE LA ESCUELA SECUNDARIA GENERAL \"BICENTENARIO DE LA INDEPENDENCIA 2010, ACAPULCO",
       "AreaRemitente": "DEMANDA CIUDADANA"
     },
     {
       "id": 450,
       "NombreRemitente": "PROFRA. MARGARITA MARTÍNEZ AGUILAR",
-      "PuestoRemitente": "DOCENTE DE LA ESCUELA TELESECUNDARIA \"\"\"\"ALEJANDRO CERVANTES DELGADO\"\"\"\", LA PINTADA, MPIO. DE ATOYAC DE ÁLVAREZ",
+      "PuestoRemitente": "DOCENTE DE LA ESCUELA TELESECUNDARIA \"ALEJANDRO CERVANTES DELGADO\", LA PINTADA, MPIO. DE ATOYAC DE ÁLVAREZ",
       "AreaRemitente": "DEMANDA CIUDADANA"
     },
     {
       "id": 451,
       "NombreRemitente": "MTRA. MARLENE ROSAS TENORIO",
-      "PuestoRemitente": "DOCENTE DE LA ESCUELA TELESECUNDARIA \"\"\"\"JOSÉ AZUETA\"\"\"\", EL PORVENIR, MPIO. DE TÉCPAN DE GALEANA",
+      "PuestoRemitente": "DOCENTE DE LA ESCUELA TELESECUNDARIA \"JOSÉ AZUETA\", EL PORVENIR, MPIO. DE TÉCPAN DE GALEANA",
       "AreaRemitente": "DEMANDA CIUDADANA"
     },
     {
@@ -2721,7 +2721,7 @@
     {
       "id": 454,
       "NombreRemitente": "MTRA. NIDIA MAGDALENA PADILLA FERNÁNDEZ",
-      "PuestoRemitente": "DOCENTE DEL JARDÍN DE NIÑOS \"\"\"\"ELENA ALCOCER DE FIGUEROA\"\"\"\". IGUALA DE LA INDEPENDENCIA",
+      "PuestoRemitente": "DOCENTE DEL JARDÍN DE NIÑOS \"ELENA ALCOCER DE FIGUEROA\". IGUALA DE LA INDEPENDENCIA",
       "AreaRemitente": "DEMANDA CIUDADANA"
     },
     {
@@ -2745,13 +2745,13 @@
     {
       "id": 458,
       "NombreRemitente": "C. ABIGAIL ARCOS BELLO Y FIRMANTES",
-      "PuestoRemitente": "DOCENTES DE LA CENTENARIA ESCUELA NORMAL DEL ESTADO \"\"\"\"IGNACIO MANUEL ALTAMIRANO\"\"\"\", CIUDAD",
+      "PuestoRemitente": "DOCENTES DE LA CENTENARIA ESCUELA NORMAL DEL ESTADO \"IGNACIO MANUEL ALTAMIRANO\", CIUDAD",
       "AreaRemitente": "DEMANDA CIUDADANA"
     },
     {
       "id": 459,
       "NombreRemitente": "MTRO. HIPÓLITO PORFIRIO LEÓN REYES Y FIRMANTES",
-      "PuestoRemitente": "DOCENTES DE LA CENTENARIA ESCUELA NORMAL DEL ESTADO \"\"\"\"IGNACIO MANUEL ALTAMIRANO\"\"\"\", CIUDAD",
+      "PuestoRemitente": "DOCENTES DE LA CENTENARIA ESCUELA NORMAL DEL ESTADO \"IGNACIO MANUEL ALTAMIRANO\", CIUDAD",
       "AreaRemitente": "DEMANDA CIUDADANA"
     },
     {
@@ -2763,7 +2763,7 @@
     {
       "id": 461,
       "NombreRemitente": "C. ADRIANA ZAPATA HERNÁNDEZ Y FIRMANTES ",
-      "PuestoRemitente": "DOCENTES DEL CAI N° 1 \"\"\"\"ISABEL GUEVARA CATALÁN\"\"\"\", CIUDAD.",
+      "PuestoRemitente": "DOCENTES DEL CAI N° 1 \"ISABEL GUEVARA CATALÁN\", CIUDAD.",
       "AreaRemitente": "DEMANDA CIUDADANA"
     },
     {
@@ -2793,7 +2793,7 @@
     {
       "id": 466,
       "NombreRemitente": "PROFRA. SIDEY ODÓRICA MOYAO HERNÁNDEZ",
-      "PuestoRemitente": "ENCARGADA DE LA DIRECCIÓN DEL C.E.P.I \"\"\"\"FRANCISCO MÁRQUEZ\"\"\"\" TEYAPAN, MPIO. ZITLALA",
+      "PuestoRemitente": "ENCARGADA DE LA DIRECCIÓN DEL C.E.P.I \"FRANCISCO MÁRQUEZ\" TEYAPAN, MPIO. ZITLALA",
       "AreaRemitente": "DEMANDA CIUDADANA"
     },
     {
@@ -2847,7 +2847,7 @@
     {
       "id": 475,
       "NombreRemitente": "PROFRA. JUANA RÍOS GÓMEZ Y FIRMANTE",
-      "PuestoRemitente": "ENLACE DE LA DIRECCIÓN DE LA ESCUELA SECUNDARIA GENERAL NO. 49, \"\"\"\"MARGARITO DAMIÁN VARGAS\"\"\"\", ACAPULCO ",
+      "PuestoRemitente": "ENLACE DE LA DIRECCIÓN DE LA ESCUELA SECUNDARIA GENERAL NO. 49, \"MARGARITO DAMIÁN VARGAS\", ACAPULCO ",
       "AreaRemitente": "SECRETARÍA DE EDUCACIÓN GUERRERO"
     },
     {
@@ -2859,13 +2859,13 @@
     {
       "id": 477,
       "NombreRemitente": "C. LEÓN FELIPE CASTORENA FRANCO",
-      "PuestoRemitente": "ENTRENADOR DEL CLUB DE DEPORTE ADAPTADO \"\"\"\"AVISPONES\"\"\"\", CIUDAD",
+      "PuestoRemitente": "ENTRENADOR DEL CLUB DE DEPORTE ADAPTADO \"AVISPONES\", CIUDAD",
       "AreaRemitente": "DEMANDA CIUDADANA"
     },
     {
       "id": 478,
       "NombreRemitente": "C. LARIZZA MINETTE LÓPEZ PEDROTE Y FIRMANTES",
-      "PuestoRemitente": "ESTUDIANTES Y EX ALUMNOS DE LA UNIVERSIDAD \"\"\"\"FRAY LUCA PACCIOLI\"\"\"\", CAMPUS IGUALA DE LA INDEPENDENCIA",
+      "PuestoRemitente": "ESTUDIANTES Y EX ALUMNOS DE LA UNIVERSIDAD \"FRAY LUCA PACCIOLI\", CAMPUS IGUALA DE LA INDEPENDENCIA",
       "AreaRemitente": "DEMANDA CIUDADANA"
     },
     {
@@ -2913,7 +2913,7 @@
     {
       "id": 486,
       "NombreRemitente": "C. YURIBIA DORALI HERNÁNDEZ CASARRUBIAS",
-      "PuestoRemitente": "INTEGRANTE DEL COMITÉ DE PADRES DE FAMILIA DE LA ESCUELA GENERAL \"\"\"\"LÁZARO CÁRDENAS\"\"\"\", CIUDAD",
+      "PuestoRemitente": "INTEGRANTE DEL COMITÉ DE PADRES DE FAMILIA DE LA ESCUELA GENERAL \"LÁZARO CÁRDENAS\", CIUDAD",
       "AreaRemitente": "ORGANIZACIONES"
     },
     {
@@ -2925,19 +2925,19 @@
     {
       "id": 488,
       "NombreRemitente": "C. ARTEMIO BARRERA RAFAEL Y FIRMANTES",
-      "PuestoRemitente": "INTEGRANTES DE LA SOCIEDAD DE PADRES DE FAMILIA DE LA ESCUELA TELESECUNDARIA \"\"\"\"NICOLÁS BRAVO\"\"\"\", TLANIPATLA, MPIO. DE EDUARDO NERI",
+      "PuestoRemitente": "INTEGRANTES DE LA SOCIEDAD DE PADRES DE FAMILIA DE LA ESCUELA TELESECUNDARIA \"NICOLÁS BRAVO\", TLANIPATLA, MPIO. DE EDUARDO NERI",
       "AreaRemitente": "ORGANIZACIONES"
     },
     {
       "id": 489,
       "NombreRemitente": "C. TERESA DE JESÚS HERRERA LÓPEZ Y FIRMANTES",
-      "PuestoRemitente": "INTEGRANTES DEL COMITÉ DE LUCHA DEL CAI 4 \"\"\"\"OCTAVIO PAZ\"\"\"\", CIUDAD",
+      "PuestoRemitente": "INTEGRANTES DEL COMITÉ DE LUCHA DEL CAI 4 \"OCTAVIO PAZ\", CIUDAD",
       "AreaRemitente": "ORGANIZACIONES"
     },
     {
       "id": 490,
       "NombreRemitente": "LIC. ANGÉLICA TERÁN VILLALOBOS Y FIRMANTES",
-      "PuestoRemitente": "INTEGRANTES DEL COMITÉ DE PADRES DE FAMILIA DE LA ESC. PRIM. \"\"\"\"VICENTE GUERRERO\"\"\"\", T.M., DE  ESTA CIUDAD",
+      "PuestoRemitente": "INTEGRANTES DEL COMITÉ DE PADRES DE FAMILIA DE LA ESC. PRIM. \"VICENTE GUERRERO\", T.M., DE  ESTA CIUDAD",
       "AreaRemitente": "ORGANIZACIONES"
     },
     {
@@ -3242,7 +3242,7 @@
     },
     {
       "id": 541,
-      "NombreRemitente": "DIP. JOAQUÍN \"\"\"\"JACKO\"\"\"\" BADILLO ESCAMILLA",
+      "NombreRemitente": "DIP. JOAQUÍN \"JACKO\" BADILLO ESCAMILLA",
       "PuestoRemitente": "LXIII LEGISLATURA",
       "AreaRemitente": "CONGRESO LOCAL"
     },
@@ -3279,13 +3279,13 @@
     {
       "id": 547,
       "NombreRemitente": "C. MARIELA APOLINAR ANTONIO",
-      "PuestoRemitente": "MADRE DE FAMILIA DE LA ESC. SEC. \"\"\"\"PRIMER CONGRESO DE ANÁHUAC\"\"\"\", T.V., CIUDAD ",
+      "PuestoRemitente": "MADRE DE FAMILIA DE LA ESC. SEC. \"PRIMER CONGRESO DE ANÁHUAC\", T.V., CIUDAD ",
       "AreaRemitente": "DEMANDA CIUDADANA"
     },
     {
       "id": 548,
       "NombreRemitente": "C. ADORAÍN DEL ROCIO OROZCO CARBALLIDO",
-      "PuestoRemitente": "MADRE DE FAMILIA DE LA ESCUELA \"\"\"\"JUSTO SIERRA\"\"\"\", CHILAPA DE ÁLVAREZ",
+      "PuestoRemitente": "MADRE DE FAMILIA DE LA ESCUELA \"JUSTO SIERRA\", CHILAPA DE ÁLVAREZ",
       "AreaRemitente": "DEMANDA CIUDADANA"
     },
     {
@@ -3357,13 +3357,13 @@
     {
       "id": 560,
       "NombreRemitente": "C. JORGE ADALBERTO SÁNCHEZ APARICIO ",
-      "PuestoRemitente": "OFICIAL INVESTIGADOR \"\"\"\"A\"\"\"\", F.G.R.",
+      "PuestoRemitente": "OFICIAL INVESTIGADOR \"A\", F.G.R.",
       "AreaRemitente": "FISCALÍA GENERAL DE LA REPÚBLICA"
     },
     {
       "id": 561,
       "NombreRemitente": "LCDO. CÉSAR LINARES PERALTA",
-      "PuestoRemitente": "OFICIAL INVESTIGADOR \"\"\"\"B\"\"\"\" POLICIA FEDERAL MINISTERIAL DE LA FISCALIA GENERAL DE LA REPÚBLICA ",
+      "PuestoRemitente": "OFICIAL INVESTIGADOR \"B\" POLICIA FEDERAL MINISTERIAL DE LA FISCALIA GENERAL DE LA REPÚBLICA ",
       "AreaRemitente": "FISCALÍA GENERAL DE LA REPÚBLICA"
     },
     {
@@ -3405,55 +3405,55 @@
     {
       "id": 568,
       "NombreRemitente": "C. GLORIA VALLE GARCÍA Y FIRMANTES",
-      "PuestoRemitente": "PADRES DE FAMILIA DE LA ESCUELA \"\"\"\"AZTECA\"\"\"\", DE LA COMUNIDAD ATLIXTAC, MPIO. LEONARDO BRAVO",
+      "PuestoRemitente": "PADRES DE FAMILIA DE LA ESCUELA \"AZTECA\", DE LA COMUNIDAD ATLIXTAC, MPIO. LEONARDO BRAVO",
       "AreaRemitente": "DEMANDA CIUDADANA"
     },
     {
       "id": 569,
       "NombreRemitente": "C. LETICIA SALGADO PEDRAZA Y FIRMANTES",
-      "PuestoRemitente": "PADRES DE FAMILIA DE LA ESCUELA PRIMARIA \"\"\"\"CUAUHTÉMOC\"\"\"\", DE LA COMUNIDAD DE XONACATLA",
+      "PuestoRemitente": "PADRES DE FAMILIA DE LA ESCUELA PRIMARIA \"CUAUHTÉMOC\", DE LA COMUNIDAD DE XONACATLA",
       "AreaRemitente": "DEMANDA CIUDADANA"
     },
     {
       "id": 570,
       "NombreRemitente": "C. ENEIDA DE LA CRUZ ROJAS Y FIRMANTES",
-      "PuestoRemitente": "PADRES DE FAMILIA DE LA ESCUELA PRIMARIA \"\"\"\"LEONARDO MIER PERALTA\"\"\"\", TIXTLA GUERRERO ",
+      "PuestoRemitente": "PADRES DE FAMILIA DE LA ESCUELA PRIMARIA \"LEONARDO MIER PERALTA\", TIXTLA GUERRERO ",
       "AreaRemitente": "DEMANDA CIUDADANA"
     },
     {
       "id": 571,
       "NombreRemitente": "C. ERIKA BAUTISTA REYES Y FIRMANTES",
-      "PuestoRemitente": "PADRES DE FAMILIA DE LA ESCUELA SECUNDARIA TÉCNICA \"\"\"\"EMPERADOR CUAUHTÉMOC\"\"\"\",  HUITZILTEPEC.",
+      "PuestoRemitente": "PADRES DE FAMILIA DE LA ESCUELA SECUNDARIA TÉCNICA \"EMPERADOR CUAUHTÉMOC\",  HUITZILTEPEC.",
       "AreaRemitente": "DEMANDA CIUDADANA"
     },
     {
       "id": 572,
       "NombreRemitente": "C. EDNA DOLORES TORRES LANCHE Y FIRMANTES",
-      "PuestoRemitente": "PADRES DE FAMILIA DEL COLEGIO \"\"\"\"ALMIRANTE REGINALD CAREY BRENTON\"\"\"\", OMETEPEC",
+      "PuestoRemitente": "PADRES DE FAMILIA DEL COLEGIO \"ALMIRANTE REGINALD CAREY BRENTON\", OMETEPEC",
       "AreaRemitente": "DEMANDA CIUDADANA"
     },
     {
       "id": 573,
       "NombreRemitente": "C. ABRIL MANCILLA CASTILLO Y FIRMANTES",
-      "PuestoRemitente": "PADRES DE FAMILIA DEL JARDÍN DE NIÑOS \"\"\"\"MARÍA LUISA OCAMPO\"\"\"\", CIUDAD",
+      "PuestoRemitente": "PADRES DE FAMILIA DEL JARDÍN DE NIÑOS \"MARÍA LUISA OCAMPO\", CIUDAD",
       "AreaRemitente": "DEMANDA CIUDADANA"
     },
     {
       "id": 574,
       "NombreRemitente": "C. GISELA PÉREZ HERNÁNDEZ Y FIRMANTES",
-      "PuestoRemitente": "PADRES DE FAMILIA DEL JARDÍN DE NIÑOS \"\"\"\"MARÍA LUISA OCAMPO\"\"\"\", CIUDAD",
+      "PuestoRemitente": "PADRES DE FAMILIA DEL JARDÍN DE NIÑOS \"MARÍA LUISA OCAMPO\", CIUDAD",
       "AreaRemitente": "DEMANDA CIUDADANA"
     },
     {
       "id": 575,
       "NombreRemitente": "C. ELIDETH OYORZABAL CAMARILLO Y FIRMANTES",
-      "PuestoRemitente": "PADRES Y MADRES DE FAMILIA DE LA EBDI N° 106 DEL ISSSTE GUERRERO \"\"\"\"CLEMENTINA BATALLA DE BASSOLS\"\"\"\", CIUDAD.",
+      "PuestoRemitente": "PADRES Y MADRES DE FAMILIA DE LA EBDI N° 106 DEL ISSSTE GUERRERO \"CLEMENTINA BATALLA DE BASSOLS\", CIUDAD.",
       "AreaRemitente": "DEMANDA CIUDADANA"
     },
     {
       "id": 576,
       "NombreRemitente": "NORMA JACINTO SALAZAR Y FIRMANTES",
-      "PuestoRemitente": "PERSONAL ADSCRITO A LA ESCUELA PRIMARIA \"\"\"\"JUSTO SIERRA\"\"\"\", CHILAPA DE ÁLVAREZ",
+      "PuestoRemitente": "PERSONAL ADSCRITO A LA ESCUELA PRIMARIA \"JUSTO SIERRA\", CHILAPA DE ÁLVAREZ",
       "AreaRemitente": "DEMANDA CIUDADANA"
     },
     {
@@ -3471,19 +3471,19 @@
     {
       "id": 579,
       "NombreRemitente": "C. LYDIA ROMÁN MONDRAGÓN Y FIRMANTES",
-      "PuestoRemitente": "PERSONAL DE LA ESCUELA NORMAL DEL ESTADO \"\"\"\"IGNACIO MAUEL ALTAMIRANO\"\"\"\", CIUDAD",
+      "PuestoRemitente": "PERSONAL DE LA ESCUELA NORMAL DEL ESTADO \"IGNACIO MAUEL ALTAMIRANO\", CIUDAD",
       "AreaRemitente": "DEMANDA CIUDADANA"
     },
     {
       "id": 580,
       "NombreRemitente": "MTRA. ADRIANA CASTAÑEDA MARTÍNEZ Y FIRMANTES",
-      "PuestoRemitente": "PERSONAL DE LA ESCUELA PRIMARIA URBANA FEDERAL MATUTINA \"\"\"\"PLUTARCO ELÍAS CALLES\"\"\"\", ACAPULCO",
+      "PuestoRemitente": "PERSONAL DE LA ESCUELA PRIMARIA URBANA FEDERAL MATUTINA \"PLUTARCO ELÍAS CALLES\", ACAPULCO",
       "AreaRemitente": "DEMANDA CIUDADANA"
     },
     {
       "id": 581,
       "NombreRemitente": "C. EDITH DÍAZ GÓMEZ Y FIRMANTES",
-      "PuestoRemitente": "PERSONAL DEL JARDÍN DE NIÑOS \"\"\"\"GRAL. VICENTE GUERRERO\"\"\"\", CIUDAD ",
+      "PuestoRemitente": "PERSONAL DEL JARDÍN DE NIÑOS \"GRAL. VICENTE GUERRERO\", CIUDAD ",
       "AreaRemitente": "DEMANDA CIUDADANA"
     },
     {
@@ -3537,13 +3537,13 @@
     {
       "id": 590,
       "NombreRemitente": "C. YOLANDA ZAVALETA CASTILLO Y FIRMANTE",
-      "PuestoRemitente": "PRESIDENTA DE LA APF DEL JARDÍN DE NIÑOS \"\"\"\"HIMNO NACIONAL\"\"\"\", LA PROVIDENCIA, MPIO. DE ACAPULCO",
+      "PuestoRemitente": "PRESIDENTA DE LA APF DEL JARDÍN DE NIÑOS \"HIMNO NACIONAL\", LA PROVIDENCIA, MPIO. DE ACAPULCO",
       "AreaRemitente": "ORGANIZACIONES"
     },
     {
       "id": 591,
       "NombreRemitente": "C. YESSICA ROJAS LÓPEZ Y FIRMANTES",
-      "PuestoRemitente": "PRESIDENTA DE LA ASOCIACIÓN DE PADRES DE FAMILIA DE LA ESCUELA PRIMARIA \"\"\"\"ADOLFO LÓPEZ MATEOS\"\"\"\", ACAPULCO",
+      "PuestoRemitente": "PRESIDENTA DE LA ASOCIACIÓN DE PADRES DE FAMILIA DE LA ESCUELA PRIMARIA \"ADOLFO LÓPEZ MATEOS\", ACAPULCO",
       "AreaRemitente": "DEMANDA CIUDADANA"
     },
     {
@@ -3645,7 +3645,7 @@
     {
       "id": 608,
       "NombreRemitente": "C. ADRIÁN MAYA NAVA Y FIRMANTE",
-      "PuestoRemitente": "PRESIDENTE DE LA SOCIEDAD DE PADRES DE FAMILIA DE LA ESCUELA SECUNDARIA TÉCNICA NÚM. 41 \"\"\"\"VICENTE GUERRERO\"\"\"\", MAYANALÁN, TEPECOACUILCO DE TRUJANO",
+      "PuestoRemitente": "PRESIDENTE DE LA SOCIEDAD DE PADRES DE FAMILIA DE LA ESCUELA SECUNDARIA TÉCNICA NÚM. 41 \"VICENTE GUERRERO\", MAYANALÁN, TEPECOACUILCO DE TRUJANO",
       "AreaRemitente": "DEMANDA CIUDADANA"
     },
     {
@@ -3669,7 +3669,7 @@
     {
       "id": 612,
       "NombreRemitente": "C. ROSALINO GERMAN REYES",
-      "PuestoRemitente": "PRESIDENTE DEL COMITÉ DE PADRES DE FAMILIA DE LA ESCUELA PRIMARIA BILINGÜE \"\"\"\"NICOLAS BRAVO\"\"\"\", CUYUXTLAHUACA, MPIO. DE ALCOZAUCA DE GUERRERO",
+      "PuestoRemitente": "PRESIDENTE DEL COMITÉ DE PADRES DE FAMILIA DE LA ESCUELA PRIMARIA BILINGÜE \"NICOLAS BRAVO\", CUYUXTLAHUACA, MPIO. DE ALCOZAUCA DE GUERRERO",
       "AreaRemitente": "DEMANDA CIUDADANA"
     },
     {
@@ -3681,13 +3681,13 @@
     {
       "id": 614,
       "NombreRemitente": "DIP. ANTONIO HELGUERA JIMÉNEZ",
-      "PuestoRemitente": "PRESIDENTE DEL COMITÉ DEL INSTITUTO DE ESTUDIOS PARLAMENTARIOS \"\"\"\"EDUARDO NERI\"\"\"\"",
+      "PuestoRemitente": "PRESIDENTE DEL COMITÉ DEL INSTITUTO DE ESTUDIOS PARLAMENTARIOS \"EDUARDO NERI\"",
       "AreaRemitente": "CONGRESO LOCAL"
     },
     {
       "id": 615,
       "NombreRemitente": "M.A.C. MARTÍN JERÓNIMO GUTIÉRREZ TÉLLEZ",
-      "PuestoRemitente": "PRESIDENTE DEL CONSEJO DIRECTIVO DEL COLEGIO DE INGENIEROS CIVILES \"\"\"\"PRIMER CONGRESO DE ANAHUAC\"\"\"\" DEL ESTADO DE GUERRERO, A.C.",
+      "PuestoRemitente": "PRESIDENTE DEL CONSEJO DIRECTIVO DEL COLEGIO DE INGENIEROS CIVILES \"PRIMER CONGRESO DE ANAHUAC\" DEL ESTADO DE GUERRERO, A.C.",
       "AreaRemitente": "DEMANDA CIUDADANA"
     },
     {
@@ -3795,7 +3795,7 @@
     {
       "id": 633,
       "NombreRemitente": "MTRA. MARGARITA CANTÚ VIDAL",
-      "PuestoRemitente": "PROFESORA DE TELESECUNDARIA \"\"\"\"A\"\"\"\", CLAVE 2344",
+      "PuestoRemitente": "PROFESORA DE TELESECUNDARIA \"A\", CLAVE 2344",
       "AreaRemitente": "DEMANDA CIUDADANA"
     },
     {
@@ -3879,19 +3879,19 @@
     {
       "id": 647,
       "NombreRemitente": "DR. HUMBERTO SANTOS BAUTISTA ",
-      "PuestoRemitente": "REPRESENTANTE DEL CUERPO ACADÉMICO \"\"\"\"SUJETOS, CONTEXTO Y PROYECTO\"\"\"\" (UPN-CA-118)",
+      "PuestoRemitente": "REPRESENTANTE DEL CUERPO ACADÉMICO \"SUJETOS, CONTEXTO Y PROYECTO\" (UPN-CA-118)",
       "AreaRemitente": "DEMANDA CIUDADANA"
     },
     {
       "id": 648,
       "NombreRemitente": "PROFR. FÉLIX AVILÉS ROMERO",
-      "PuestoRemitente": "REPRESENTANTE SINDICAL DE LA ESCUELA SECUNDARIA TÉCNICA NO. 91 \"\"\"\"RAFUL KRAYEM SÁNCHEZ\"\"\"\", TECALPULCO, MPIO. DE TAXCO DE ALARCÓN",
+      "PuestoRemitente": "REPRESENTANTE SINDICAL DE LA ESCUELA SECUNDARIA TÉCNICA NO. 91 \"RAFUL KRAYEM SÁNCHEZ\", TECALPULCO, MPIO. DE TAXCO DE ALARCÓN",
       "AreaRemitente": "DEMANDA CIUDADANA"
     },
     {
       "id": 649,
       "NombreRemitente": "PROFR. FRANCISCO JAVIER VÁZQUEZ FELICIANO ",
-      "PuestoRemitente": "REPRESENTANTE SINDICAL DE LA ESCUELA SECUNDARIA TÉCNICA NÚM. 299 \"\"\"\"FELIPE SÁNCHEZ TÉLLEZ\"\"\"\", ZUMPANGO DEL RÍO ",
+      "PuestoRemitente": "REPRESENTANTE SINDICAL DE LA ESCUELA SECUNDARIA TÉCNICA NÚM. 299 \"FELIPE SÁNCHEZ TÉLLEZ\", ZUMPANGO DEL RÍO ",
       "AreaRemitente": "DEMANDA CIUDADANA"
     },
     {
@@ -4377,7 +4377,7 @@
     {
       "id": 730,
       "NombreRemitente": "MTRO. RÉNE VARGAS PINEDA",
-      "PuestoRemitente": "SECRETARIO DE PLANEACIÓN Y DESARROLLO REGIONAL,\"\"\"\"SEPLADER\"\"\"\"",
+      "PuestoRemitente": "SECRETARIO DE PLANEACIÓN Y DESARROLLO REGIONAL,\"SEPLADER\"",
       "AreaRemitente": "SECRETARIA DE PLANEACIÓN Y DESARROLLO REGIONAL"
     },
     {
@@ -4623,7 +4623,7 @@
     {
       "id": 771,
       "NombreRemitente": "ING. ERNESTO GARCÍA BAHENA",
-      "PuestoRemitente": "SUBDIR. DE LA ESC. TÉC. N.214 \"\"\"\"VALERIO TRUJANO\"\"\"\", SAN MIGUEL TECUICIAPAN MPIO. DE TEPECOACUILCO DE TRUJANO",
+      "PuestoRemitente": "SUBDIR. DE LA ESC. TÉC. N.214 \"VALERIO TRUJANO\", SAN MIGUEL TECUICIAPAN MPIO. DE TEPECOACUILCO DE TRUJANO",
       "AreaRemitente": "SECRETARÍA DE EDUCACIÓN GUERRERO"
     },
     {
@@ -4653,7 +4653,7 @@
     {
       "id": 776,
       "NombreRemitente": "MTRA. ELIZABETH MORALES CAMACHO",
-      "PuestoRemitente": "SUBDIRECTORA  DE LA ESCUELA SECUNDARIA  TÉCNICA NO. 92 \"\"\"\"IGNACIO MANUEL ALTAMIRANO\"\"\"\", ACAPULCO ",
+      "PuestoRemitente": "SUBDIRECTORA  DE LA ESCUELA SECUNDARIA  TÉCNICA NO. 92 \"IGNACIO MANUEL ALTAMIRANO\", ACAPULCO ",
       "AreaRemitente": "SECRETARÍA DE EDUCACIÓN GUERRERO"
     },
     {
@@ -5019,7 +5019,7 @@
     {
       "id": 837,
       "NombreRemitente": "MTRO. ROBERTO CARBAJAL MONTIEL",
-      "PuestoRemitente": "TITULAR DE LA ESCUELA ESTATAL DE MÚSICA \"\"\"\"MARGARITO DAMIÁN VARGAS\"\"\"\", CIUDAD",
+      "PuestoRemitente": "TITULAR DE LA ESCUELA ESTATAL DE MÚSICA \"MARGARITO DAMIÁN VARGAS\", CIUDAD",
       "AreaRemitente": "SECRETARÍA DE EDUCACIÓN GUERRERO"
     },
     {
@@ -5169,7 +5169,7 @@
     {
       "id": 862,
       "NombreRemitente": "MTRO. JOSÉ LAVOISIERE LUQUÍN JIMÉNEZ Y FIRMANTES",
-      "PuestoRemitente": "TRABAJADORES DE LA ESCUELA SECUNDARIA TÉCNICA NO. 112 \"\"\"\"EMPERADOR CUAUHTÉMOC\"\"\"\", HUITZILTEPEC",
+      "PuestoRemitente": "TRABAJADORES DE LA ESCUELA SECUNDARIA TÉCNICA NO. 112 \"EMPERADOR CUAUHTÉMOC\", HUITZILTEPEC",
       "AreaRemitente": "DEMANDA CIUDADANA"
     },
     {
@@ -5187,7 +5187,7 @@
     {
       "id": 865,
       "NombreRemitente": "C. JULIETA ASTUDILLO ORTEGA Y FIRMANTES",
-      "PuestoRemitente": "VICEPRESIDENTA DEL COMITÉ DE PADRES DE FAMILIA DE LA ESC. PRIM. URB. FED. \"\"\"\"EMILIANO ZAPATA,\"\"\"\" XOCHIHUEHUETLAN",
+      "PuestoRemitente": "VICEPRESIDENTA DEL COMITÉ DE PADRES DE FAMILIA DE LA ESC. PRIM. URB. FED. \"EMILIANO ZAPATA,\" XOCHIHUEHUETLAN",
       "AreaRemitente": "ORGANIZACIONES"
     },
     {
@@ -5864,9 +5864,9 @@
     },
     {
       "id": 78,
-      "Turno": "PROFRA. BERTHA SALMERÓN FLORES, DIRECTORA DE LA ESCUELA TELESECUNDARIA \"\"\"\"JUAN ESCUTIA\"\"\"\", UBICADA EN ATLIXTAC, MPIO. DE LEONARDO BRAVO",
+      "Turno": "PROFRA. BERTHA SALMERÓN FLORES, DIRECTORA DE LA ESCUELA TELESECUNDARIA \"JUAN ESCUTIA\", UBICADA EN ATLIXTAC, MPIO. DE LEONARDO BRAVO",
       "Nombre_Turno": "PROFRA. BERTHA SALMERÓN FLORES",
-      "Puesto_Turno": " DIRECTORA DE LA ESCUELA TELESECUNDARIA \"\"\"\"JUAN ESCUTIA\"\"\"\"",
+      "Puesto_Turno": " DIRECTORA DE LA ESCUELA TELESECUNDARIA \"JUAN ESCUTIA\"",
       "AreaResp2": "SRIA. PARTICULAR DEL C. SECRETARIO",
       "AmbitoTurnante": "GOBIERNO DEL ESTADO"
     },
